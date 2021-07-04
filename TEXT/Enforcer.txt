@@ -1,0 +1,38 @@
+Civilization is the act of imposing order on the chaos of the wilderness. Enforcers are the strong arm of order, the warriors who defend civilization. Of course, definitions of civilization vary. Enforcers stand atop the walls of forts, holding the line against the ark barbarians besieging the outpost. However, enforcers can also be found amid the barbarians below. The ark chieftain and his best warriors are enforcers, keeping order in the tribe. Enforcers are the thugs, the guards, the defenders and the hunters of violent Gamma Terra. They are more than simple fighters; they are community leaders and skilled soldiers.
+
+Class   BAB             Fort  Ref  Will   Class Features
+1st     +1              +2    +0    +0    Talent
+2nd     +2              +3    +0    +0    Bonus feat
+3rd     +3              +3    +1    +1
+4th     +4              +4    +1    +1    Talent
+5th     +5              +4    +1    +1    Bonus feat
+6th     +6/+1           +5    +2    +2
+7th     +7/+2           +5    +2    +2    Talent
+8th     +8/+3           +6    +2    +2    Bonus feat
+9th     +9/+4           +6    +3    +3
+10th    +10/+5          +7    +3    +3    Talent
+11th    +11/+6/+1       +7    +3    +3    Bonus feat
+12th    +12/+7/+2       +8    +4    +4
+13th    +13/+8/+3       +8    +4    +4    Talent
+14th    14/+9/+4        +9    +4    +4    Bonus feat
+15th    +15/+10/+5      +9    +5    +5
+16th    +16/+11/+6/+1   +10   +5    +5
+17th    +17/+12/+7/+2   +10   +5    +5    Bonus feat
+18th    +18/+13/+8/+3   +11   +6    +6
+19th    +19/+14/+9/+4   +11   +6    +6
+20th    +20/+15/+10/+5  +12   +6    +6    Bonus feat
+
+Enforcers have the following game statistics:
+
+Abilities: Strength and Dexterity are the most important attributes for an enforcer, to give the best bonuses to weapon use. Depending on the style of the enforcer, any of Constitution, Charisma or Wisdom can be the next most important; enforcers can be amazingly tough, careful tacticians or heroic leaders.
+
+Hit Die: d10
+
+CLASS SKILLS
+
+The enforcer’s class skills are: Climb (Str), Craft (metalworking, structural) (Int), Drive (Dex), Handle Animal, Intimidate (Cha), Jump (Str), Knowledge (gossip, streetwise, tactics) (Int), Profession (Wis),
+Repair (Int), Speak Language (n/a), and Swim (Str).
+
+Skill Points at 1st level: (3 + Int modifier) x 4
+
+Skill Points at Each Additional Level: 3 + Int modifier

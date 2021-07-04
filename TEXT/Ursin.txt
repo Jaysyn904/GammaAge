@@ -1,0 +1,14 @@
+The Engineered are some of the most common mutants on Gamma Terra, and the most likely to breed true and create communities of their own. Final Wars era scientists designed these “moreaus” primarily as living weapons and hyper-specialized workers and soldiers, though some breeds were made for entertainment, pleasure and experimentation.  Whatever a particular strain’s origins, many of them escaped into the wild during or  immediately following the Final Wars and not only survived, but prospered.  Almost any higher animal imaginable, and a few fish & invertibrates, have been elevated to this man-like status, and to varying degrees.  "Ursin" is a catch-all term to describe engineered mutants that has any varety of bear as a genetic progenetor.
+
+Ursin Ability Adjustments: None 
+
+Special Abilities:
+
+- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Lore (Decipher Script) checks.
+- Medium: As Medium creatures, ursins have no special bonuses or penalties due to their size.
+- Ursin base land speed is 30 feet.
+- Natural Climber: Ursins receive a +3 bonus to Climb checks.
+- Natural Weapons: Ursins can make two natural claw attacks for 1d4 damage.
+- Naturally Tough: Ursins recieve a +2 Bonus to Fortitude saves.
+- Mutations: Engineered characters begin with 2 minor positive mutations, 1 major positive mutation and 1 minor negative mutation.  Choose the positive mutations, and then roll for the negative one.
+- Genetic Instability: Mutants of all sorts suffer from genetic instability.  All mutant characters suffer a –2 penalty on all saves against developing new mutations (such as when exposed to environmental mutagens.  This penalty increases by –1 for every two character levels (for example, a 2nd-level mutant suffers a –3 to her save against mutation).

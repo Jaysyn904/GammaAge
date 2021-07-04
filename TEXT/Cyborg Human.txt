@@ -1,0 +1,10 @@
+Cyborgs are stock humans that have been fitted with one or more cybernetic implants early on in their lives for one reason or another.  Like regular stock humans, they are very similar to ancient humans with the major exception of directly interfacing their bodies with one or more machines.  Cyborgs on Gamma Terra run a huge range of sizes and appearances, from the lucky scavenger that finds an ancient but unobtrusive nightvision cybereye self-installation kit to disembodied brains eternally piloting war machines capable of leveling entire cities.
+
+Stock Human Ability Adjustments: None
+
+Special Abilities:
+
+- Medium: As Medium creatures, cyborgs have no special bonuses or penalties due to their size.
+- Cyborg base land speed is 30 feet.
+- 4 extra skill points at 1st level and 1 extra skill point at each additional level.
+- TBD

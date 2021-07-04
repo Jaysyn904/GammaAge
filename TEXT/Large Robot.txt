@@ -1,0 +1,13 @@
+No one can say when the line between “robot” and “synthetic” was crossed; but by the height of the Final Wars, these machines, intelligent and self-aware, were fighting alongside (or in lieu of) human and engineered soldiers.  Efficiency was the rule of the day, and the same self-repair and ambient power subsystems that kept the machines out of the workshops and on the battlefields keep them running in the Gamma World.  Synthetics come in any number of shapes, types and sizes. Some were plush toys equipped with robotic endoskeletons and AI brains. Others were hulking chrome monstrosities, designed to inspire terror before laying waste to the enemy. Robots are generally vaguely humanoid (at least two legs, two arms, and one head). Some have tracks, spider-like legs or wheels for locomotion, and some have multiple arms for complex tasks, but the vast majority of robot characters look like self-propelled suits of power armor.
+
+Large Robot Ability Adjustments: +2 STR, -2 DEX, -2 CHA, +2 INT 
+
+Special Abilities:
+
+- Large: Large Robots have a +2 modifier to Strength and -2 modifier to their Dexterity.
+- HD Increase: Large robots increase their class Hit Die type by one (for example, from a d8 to a d10), to a maximum of a d12.
+- Construct: Synthetic characters are constructs.  Constructs are immune to mind-influencing effects, poison, sleep, paralysis, stunning & disease.  Due to the extreme complexities of synthetic design technology, synthetic characters are subject to critical hits and the effects of massive damage. 
+- Large Robot base land speed is 30 feet.
+- Damage Reduction: All synthetic characters are resistant to damage from kinetic sources, such as punches, kicks, bullets and falls. Synthetics have damage reduction 5/energy.
+- Narrow Focus: Synthetic characters have specific programming that determines their capabilities.  The following feats cannot be chosen after character generation: Animal Affinity, Athletic, Attentive, Cautious,
+Confident, Creative, Deceptive, Educated, Endurance, Focused, Improved Damage Threshold, Iron Will, Meticulous, Nimble, Studious, Trustworthy. Synthetic characters may overcome this prohibition by taking the Spontaneous Algorithm feat.
