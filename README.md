@@ -6,7 +6,7 @@ Features:
 ? basic classes
 ? advanced classes
 
-Overland Travel SYstem
+Overland Travel System
 
 Mutation system
 
