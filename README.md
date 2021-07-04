@@ -1,5 +1,5 @@
 # GammaAge
-Gamma Age is a post-apocalyptic RPG module for Neverwinter Nights.
+Gamma Age is a post-apocalyptic RPG module for Neverwinter Nights set on Gamma Terra.
 
 Features:
 28+ genotypes (races)
