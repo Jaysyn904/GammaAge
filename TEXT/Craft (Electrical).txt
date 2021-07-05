@@ -1,0 +1,4 @@
+Ability: Intelligence.
+Requires Training: Yes.
+
+Craft (electronic) includes the intricate wiring required for building robots; computer-guided vehicles and weapons; and other fusions of mechanical and electrical systems. If an object is mechanical as well as electronic, the DC for producing it is increased by +5. However, the character gains a +2 synergy bonus on the skill roll if he possesses at least 5 ranks in Craft (Mechanical).
