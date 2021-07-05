@@ -7,7 +7,7 @@ Special Abilities:
 - Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Lore (Decipher Script) checks.
 - Medium: As Medium creatures, caniniods have no special bonuses or penalties due to their size.
 - Caniniod base land speed is 30 feet.
-- Heightened Senses: Caniniods recieve a +3 bonus to Listen & Spot checks.
+- Skill Affinity (Listen) & Skill Affinity (Spot): Caniniods have heightened senses and recieve a +4 bonus to Listen & Spot checks.
 - Natural Weapon: Caniniods can make an natural bite attack for 1d4 damage.
 - Mutations: Engineered characters begin with 2 minor positive mutations, 1 major positive mutation and 1 minor negative mutation.  Choose the positive mutations, and then roll for the negative one.
 - Genetic Instability: Mutants of all sorts suffer from genetic instability.  All mutant characters suffer a –2 penalty on all saves against developing new mutations (such as when exposed to environmental mutagens.  This penalty increases by –1 for every two character levels (for example, a 2nd-level mutant suffers a –3 to her save against mutation).
