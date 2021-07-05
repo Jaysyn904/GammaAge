@@ -4,9 +4,10 @@ Reptoid Ability Adjustments: None
 
 Special Abilities:
 
-- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Lore (Decipher Script) checks.
+- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Decipher Script checks.
 - Medium: As Medium creatures, reptoids have no special bonuses or penalties due to their size.
 - Reptoid base land speed is 30 feet.
+- Skill Affinity (Tumble): Reptoids are highly aware of their surroundings.
 - Natural Weapon: Reptoids can make an natural bite attack for 1d4 damage.
 - Scaly Hide: Reptiods have scaly skin that grant them a +2 Natural Armor.
 - Mutations: Engineered characters begin with 2 minor positive mutations, 1 major positive mutation and 1 minor negative mutation.  Choose the positive mutations, and then roll for the negative one.
