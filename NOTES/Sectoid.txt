@@ -4,11 +4,10 @@ Sectiod Ability Adjustments: -2 CHA
 
 Special Abilities:
 
-- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Lore (Decipher Script) checks.
+- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Decipher Script checks.
 - Medium: As Medium creatures, sectiods have no special bonuses or penalties due to their size.
 - Sectiod base land speed is 30 feet.
-- Natural Climber: Sectiods recieve a +3 to Climb checks.
-- Natural Leapers: Sectiods recieve a +3 to Jump checks.
+- Skill Affinity (Climb) & Skill Affinity (Jump): Sectoids are natural climbers & leapers.
 - Wings: A sectiod's wings give them a +2 dodge bonus & immunity to terrain effects.
 - Exoskeleton: A sectiod's exoskeleton grants a +1 Natural Armor Bonus.
 - Mutations: Engineered characters begin with 2 minor positive mutations, 1 major positive mutation and 1 minor negative mutation.  Choose the positive mutations, and then roll for the negative one.
