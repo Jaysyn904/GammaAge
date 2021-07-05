@@ -4,10 +4,10 @@ Rumin Ability Adjustments: None
 
 Special Abilities:
 
-- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Lore (Decipher Script) checks.
+- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Decipher Script checks.
 - Medium: As Medium creatures, rumins have no special bonuses or penalties due to their size.
 - Rumin base land speed is 30 feet.
 - Natural Weapon: Rumin can make an natural gore attack for 1d4 damage.
-- Bullheaded: Rumins recieve a +2 Bonus to Will saves.
+- Skill Affinity (Concentration) & Skill Affinity (Intimidate): Rumins are even keeled but terrifying when roused.
 - Mutations: Engineered characters begin with 2 minor positive mutations, 1 major positive mutation and 1 minor negative mutation.  Choose the positive mutations, and then roll for the negative one.
 - Genetic Instability: Mutants of all sorts suffer from genetic instability.  All mutant characters suffer a –2 penalty on all saves against developing new mutations (such as when exposed to environmental mutagens.  This penalty increases by –1 for every two character levels (for example, a 2nd-level mutant suffers a –3 to her save against mutation).
