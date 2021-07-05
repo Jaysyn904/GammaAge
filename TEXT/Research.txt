@@ -1,0 +1,6 @@
+Ability: Intelligence.
+Requires Training: Yes.
+
+Check: Researching a topic takes time, skill, and some luck.
+
+Research in the Gamma Age is much different and more difficult than in the modern age. The primary difference exists in the medium: Modern research assumes the presence of an internet, as well as carefully catalogued libraries and other archives.  It is rare for a Gamma World character to have access to either, though some archivists’ communities possess intranet computer systems and vast amounts of carefully collated hard data. Outside of these rare instances, characters using the Research skill find themselves rooting through incomplete and often heavily damaged community and personal libraries.

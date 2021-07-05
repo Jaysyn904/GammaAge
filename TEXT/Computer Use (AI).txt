@@ -1,0 +1,11 @@
+Ability: Intelligence.
+Requires Training: Yes.
+
+The skill of working with artificial intelligence (AI) is half computer operation and half psychology. Self-aware systems, ranging from security programs to synthetic life forms, operate under recognizable patterns but also possess creativity, resourcefulness and even impulsiveness.  Computer Use (artificial intelligence) works exactly like using the Diplomacy skill except it only applies to self-aware machines.  In addition, characters using this skill may attempt to reprogram an AI, effectively changing its personality to suit the programmer.  The following table presents example DCs and changes that may be made:
+
+DC     Reprogramming
+20     Give an AI a new, compatible allegiance.
+25     Remove an allegiance from an AI.
+30     Give an AI an allegiance that is not compatible with its previous programming.
+35     Add or delete a core programming command, such as “Destroy all mutants.”
+40     Fundamentally change an AI’s programming, including adding and removing skills.
