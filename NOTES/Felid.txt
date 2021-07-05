@@ -4,10 +4,10 @@ Felid Ability Adjustments: None
 
 Special Abilities: None
 
-- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Lore (Decipher Script) checks.
+- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Decipher Script checks.
 - Medium: As Medium creatures, felids have no special bonuses or penalties due to their size.
 - Felid base land speed is 30 feet.
-- Naturally Stealthy: Felids receive a +3 bonus to Hide & Move Silently checks.
+- Skill Affinity (Hide) & Skill Affinity (Move Silently):  Felids are naturally stealthy.
 - Darkvision: Felids can see in the dark as well as daylight.
 - Natural Weapon: Felids can make two natural claw attacks for 1d4 damage each.
 - Mutations: Engineered characters begin with 2 minor positive mutations, 1 major positive mutation and 1 minor negative mutation.  Choose the positive mutations, and then roll for the negative one.
