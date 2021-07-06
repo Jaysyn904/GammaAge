@@ -1,3 +1,5 @@
+Computer Use (Basic)
+
 Ability: Intelligence.
 Requires Training: Yes.
 

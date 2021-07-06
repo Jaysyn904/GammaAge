@@ -1,5 +1,6 @@
-Ability: Intellgence.
+Demolitions
 
+Ability: Intellgence.
 Requires Training: Yes.
 
 Demolition checks are made when setting, disarming or placing explosives for maximu desired effect.
@@ -21,3 +22,5 @@ A character without a demolitions kit takes a –4 penalty on Demolitions checks
 Making an explosive requires the Craft (chemical) skill. 
 
 Time: Setting a detonator is usually a full-round action. Placing an explosive device takes 1 minute or more, depending on the scope of the job.
+
+NOTE: This skill supplants & fuctions as Disable Trap

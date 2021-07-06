@@ -1,3 +1,5 @@
+Survival
+
 Ability: Wisdom.
 Requires Training: No.
 
@@ -21,3 +23,5 @@ Special: 5 or more ranks in Disable Traps grants a +2 synergy bonus on Set Trap 
 Spectacular Failure: If a skill check is failed by 10 or more, the trap goes off in the attempt to set it. This can only occur if you are in combat when trying to set the trap.
 
 Use: Use a trap kit from your inventory. An icon visible to you and your party will appear on the ground to represent the trap.
+
+NOTE: This skill supplants & functions as Set Trap.

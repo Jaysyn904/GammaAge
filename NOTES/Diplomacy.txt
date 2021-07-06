@@ -1,3 +1,5 @@
+Diplomacy
+
 Ability: Charisma.
 Requires Training: No.
 
@@ -5,4 +7,4 @@ A successful Persuade check prompts NPCs to reveal additional information or pro
 
 Check: A character can change others’ attitudes with a successful check (see the table below. In negotiations, participants roll opposed Diplomacy checks to see who gains the advantage. Opposed checks also resolve cases where two advocates or diplomats plead opposing cases before a third party.
 
-Use: Used in conversation.
+NOTE: This skill supplants & functions as Persuade.

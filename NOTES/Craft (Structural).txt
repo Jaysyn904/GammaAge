@@ -1,3 +1,5 @@
+Craft (Structural)
+
 Ability: Intelligence.
 Requires Training: No.
 

@@ -1,3 +1,5 @@
+Craft (Mechanical)
+
 Ability: Intelligence.
 Requires Training: Yes.
 
@@ -8,5 +10,3 @@ The character using this skill can combine raw components to form various trap k
 Check: The DC is determined by the type of trap being created. The more powerful the trap, the more difficult it is to build and the more components it requires.
 
 Special: A character without a mechanical tool kit takes a –4 penalty on Craft (Mechanical) checks.
-
-Use: Selected.

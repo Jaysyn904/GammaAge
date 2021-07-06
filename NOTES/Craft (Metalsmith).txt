@@ -1,3 +1,5 @@
+Craft (Metalsmith)
+
 Ability: Intelligence.
 Requires Training: Yes.
 
@@ -11,3 +13,5 @@ The character first needs to create the components required for the item he want
 Each item is constructed from two different components (a larger and a smaller one), that need to be assembled in order to finish crafting process.
 
 To assemble the two components, use the craft armor option in the smaller component's radial menu and target the larger component with it. On a successful Craft Armor skill check, the new item will be created in the character's inventory. Note that it is not possible to create magic items with your crafting skills. For further information about crafting, please refer to the manual. 
+
+NOTE: This skill supplants and functions as Craft (Armor)

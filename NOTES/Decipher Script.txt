@@ -1,3 +1,5 @@
+Decipher Script
+
 Ability: Intelligence.
 Requires Training: Yes.
 

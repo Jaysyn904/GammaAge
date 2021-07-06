@@ -1,3 +1,5 @@
+Craft (Nanotech)
+
 Ability: Intelligence.
 Requires Training: Yes.
 

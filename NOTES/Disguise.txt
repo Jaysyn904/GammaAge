@@ -1,3 +1,5 @@
+Disguise
+
 Ability: Charisma.
 Requires Training: No.
 

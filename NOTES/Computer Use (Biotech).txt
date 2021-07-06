@@ -1,3 +1,5 @@
+Computer Use (Biotech)
+
 Ability: Intelligence.
 Requires Training: Yes.
 

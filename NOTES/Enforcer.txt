@@ -30,8 +30,7 @@ Hit Die: d10
 
 CLASS SKILLS
 
-The enforcer’s class skills are: Climb (Str), Craft (metalworking, structural) (Int), Drive (Dex), Handle Animal, Intimidate (Cha), Jump (Str), Knowledge (gossip, streetwise, tactics) (Int), Profession (Wis),
-Repair (Int), Speak Language (n/a), and Swim (Str).
+The enforcer’s class skills are: Climb (Str), Craft (metalworking, structural) (Int), Handle Animal, Intimidate (Cha), Jump (Str), Knowledge (gossip, streetwise, tactics) (Int), Repair (Int), Speak Language (n/a), and Swim (Str).
 
 Skill Points at 1st level: (3 + Int modifier) x 4
 
