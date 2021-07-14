@@ -1,4 +1,4 @@
-## GammaAge
+### Gamma Age
 Gamma Age is a post-apocalyptic RPG module for Neverwinter Nights set on Gamma Terra.
 
 # Features:
