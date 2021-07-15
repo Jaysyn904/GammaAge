@@ -1,0 +1,6 @@
+D20 Modern 2.2 Creature hak Credits
+Earlier contributions from 1.3 and 1.4 by the original D20 Modern team.
+In addition to these:
+11/15 Added models by Reaver, Amethyst Dragon, Shemsu Heru, PHoD, Joel Garcia, Chico.
+10/17 Added models by PHoD (Alien stuff), Quantiko (Resident Evil zombies including work by Capcom, Bioware, Safehouse and Kaczor), ZugothNDeadly (Amnesia Creatures/crawler zombies/undead marines/Far Realms/Ogre Zombie), Shadowing2029 (Awakened Trees), Shemsu Heru (WotW Alien/Predator/Dark Ones/Gith/Mutant Animals/Wasteland Raiders), Draygoth28 (Crodlu/Thri-kreen), and Baba Yaga (Zombies/Ettercap/Lizard/Carrion Crawler). Included extra pallette locations.
+05/18 Added dinosaur models by Mecheon and Shemsu Heru and the gnomish machine by Shemsu Heru
