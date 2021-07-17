@@ -1,0 +1,2 @@
+1988	Insect: Dragonfly* (ShadowM)	****	Dragonfly	c_n_dragonfly	****	G	S	****	1	1	1	VFAST	2.75	4	0.1	0.1	1	0.1	1.7	H	1	2	1	1	po_G_Wasp	2	9	9	29	0	60	30	****	6	1
+
