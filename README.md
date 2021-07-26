@@ -29,3 +29,6 @@ Modern placeable models and textures by Jezira, B Harrison, Chandigar, Givemedea
 Stylish GUI - wes471
 
 Gamma World Creatures : Men, Mutants and Machines - Carcerian
+
+Project Q Tilesets
+(C) 2008-2019 Paul Ste. Marie
