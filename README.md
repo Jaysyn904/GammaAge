@@ -34,3 +34,5 @@ Project Q Tilesets
 (C) 2008-2019 Paul Ste. Marie
 
 Paths, Roads & Railroads by Danmar
+
+Mountain Jungle Tileset by LordofWorms
