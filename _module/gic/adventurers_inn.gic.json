@@ -1,0 +1,211 @@
+{
+  "__data_type": "GIC ",
+  "Creature List": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 4,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Basic innkeeper that activates the general store."
+        }
+      }
+    ]
+  },
+  "Door List": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 8,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Strong Door"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Comment": {
+          "type": "cexostring",
+          "value": "A back door"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Strong Door"
+        }
+      }
+    ]
+  },
+  "Encounter List": {
+    "type": "list",
+    "value": []
+  },
+  "List": {
+    "type": "list",
+    "value": []
+  },
+  "Placeable List": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chair"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chair"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chair"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chair"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chair"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chair"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chair"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Chair"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "BESIE Commoner Spawner \r\nBy: Ray Miller\r\nkaynekayne@bigfoot.com\r\n\r\nFor populating citys, towns, inns etc...\r\nUses \"Random Cloths Commoners\" by Mayset Aalikor\r\n\r\nChance to walk each heartbeat - Hit Points (offset by 1)\r\nSpawn Diameter - Fortitude Save (in 10 meter increments)\r\nTable Number - Reflex Save (Format: \"re_commoner#\")\r\nMax Spawns - Will Save\r\nTime in/Time out - Tag (\"re_b#e#\")\r\n\r\nExample: A tag of \"re_b6e22\" will spawn the commoners in at hour 6, spawn them out at hour 22."
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Table"
+        }
+      },
+      {
+        "__struct_id": 9,
+        "Comment": {
+          "type": "cexostring",
+          "value": "Keg"
+        }
+      }
+    ]
+  },
+  "SoundList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 6,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "PlayInToolset": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "PlayInToolset": {
+          "type": "byte",
+          "value": 1
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Comment": {
+          "type": "cexostring",
+          "value": ""
+        },
+        "PlayInToolset": {
+          "type": "byte",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "StoreList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 11,
+        "Comment": {
+          "type": "cexostring",
+          "value": "This is a base store with the \"gen_store\" tag. As long as you do not have multiple stores in an area, this is the only one you ever need to use, just copy and rename (but don't change the tag) to configure for your merchants.\r\n\r\nThe store is activated using the \"store_gen_start\" script, placed in a conversation node. The sample \"store_gen_start\" conversation is included and can also be copied/modified for use with multiple merchants, or used as is.\r\n\r\nThe base store has only one inventory item (a torch, under miscellaneous) as a placeholder."
+        }
+      }
+    ]
+  },
+  "TriggerList": {
+    "type": "list",
+    "value": []
+  },
+  "WaypointList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": "This waypoint is used for respawning a PC if the option of a custom location is set."
+        }
+      },
+      {
+        "__struct_id": 5,
+        "Comment": {
+          "type": "cexostring",
+          "value": "This is the default waypoint you may place to set a patrol path for a creature or NPC.\r\n1. Create the creature and either use its current Tag or fill in a new one.\r\n2. Place or make sure the WalkWayPoints() is within the body of the On Spawn script for the creature.\r\n3. Place a series of waypoints along the route you wish the creature to walk.\r\n4. Select all of the newly created waypoints and right click. Choose the Create Set option.\r\n5. The waypoint set will have a set name of \"WP_\" + NPC Tag. Thus if an NPC with the Tag \"Guard\" will have a waypoint set called \"WP_Guard\". Note that Tags are case sensitive."
+        }
+      }
+    ]
+  }
+}

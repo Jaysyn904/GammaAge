@@ -1,0 +1,151 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "General Store"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "generalstore"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "prc_scrolls"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "prc_scrolls"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Starting Merchant"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "startingmerchant"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6789
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "prc_epicspells"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "prc_epicspells"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "prc_magiccraft"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "prc_magiccraft"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      }
+    ]
+  }
+}

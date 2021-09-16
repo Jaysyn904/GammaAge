@@ -1,0 +1,815 @@
+{
+  "__data_type": "UTC ",
+  "Appearance_Type": {
+    "type": "word",
+    "value": 0
+  },
+  "BodyBag": {
+    "type": "byte",
+    "value": 0
+  },
+  "Cha": {
+    "type": "byte",
+    "value": 7
+  },
+  "ChallengeRating": {
+    "type": "float",
+    "value": 4.0
+  },
+  "ClassList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 2,
+        "Class": {
+          "type": "int",
+          "value": 14
+        },
+        "ClassLevel": {
+          "type": "short",
+          "value": 7
+        }
+      }
+    ]
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Con": {
+    "type": "byte",
+    "value": 18
+  },
+  "Conversation": {
+    "type": "resref",
+    "value": ""
+  },
+  "CRAdjust": {
+    "type": "int",
+    "value": 0
+  },
+  "CurrentHitPoints": {
+    "type": "short",
+    "value": 35
+  },
+  "DecayTime": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Deity": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This highly intelligent mutated badgeroid species inhabits cool temperate zones. They are approximately 1.5 meters tall. The badders are organized into a society approximately equal to that of the medieval period in human history. They are basically of evil disposition and will destroy other intelligent life forms if given the chance. Badders live in earth burrow complexes, although they will sometimes be found inhabiting a ruined town of the Ancients. They have manipulative forepaws and walk erect. Badders are exceptionally quick of movement in combat, and they commonly employ simple armor, shields, and all sorts of weapons. They can alto deliver a vicious bite. Badders communicate in their own form of snarling/growling language but can approximate some limited trade speech. They are hard of hearing, but have a keen sense of smell. "
+    }
+  },
+  "Dex": {
+    "type": "byte",
+    "value": 11
+  },
+  "Disarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "Equip_ItemList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 1,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "badderhelm"
+        }
+      },
+      {
+        "__struct_id": 2,
+        "Dropable": {
+          "type": "byte",
+          "value": 1
+        },
+        "EquippedRes": {
+          "type": "resref",
+          "value": "badderchainmail"
+        }
+      },
+      {
+        "__struct_id": 16,
+        "Dropable": {
+          "type": "byte",
+          "value": 1
+        },
+        "EquippedRes": {
+          "type": "resref",
+          "value": "spikedclub"
+        }
+      },
+      {
+        "__struct_id": 32,
+        "Dropable": {
+          "type": "byte",
+          "value": 1
+        },
+        "EquippedRes": {
+          "type": "resref",
+          "value": "baddershield"
+        }
+      },
+      {
+        "__struct_id": 131072,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "badderhide"
+        }
+      }
+    ]
+  },
+  "FactionID": {
+    "type": "word",
+    "value": 1
+  },
+  "FeatList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 4
+        }
+      },
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 989
+        }
+      }
+    ]
+  },
+  "FirstName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Badder"
+    }
+  },
+  "fortbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Gender": {
+    "type": "byte",
+    "value": 0
+  },
+  "GoodEvil": {
+    "type": "byte",
+    "value": 0
+  },
+  "HitPoints": {
+    "type": "short",
+    "value": 35
+  },
+  "Int": {
+    "type": "byte",
+    "value": 11
+  },
+  "Interruptable": {
+    "type": "byte",
+    "value": 1
+  },
+  "IsImmortal": {
+    "type": "byte",
+    "value": 0
+  },
+  "IsPC": {
+    "type": "byte",
+    "value": 0
+  },
+  "LastName": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "LawfulChaotic": {
+    "type": "byte",
+    "value": 0
+  },
+  "Lootable": {
+    "type": "byte",
+    "value": 0
+  },
+  "MaxHitPoints": {
+    "type": "short",
+    "value": 63
+  },
+  "NaturalAC": {
+    "type": "byte",
+    "value": 2
+  },
+  "NoPermDeath": {
+    "type": "byte",
+    "value": 1
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 127
+  },
+  "PerceptionRange": {
+    "type": "byte",
+    "value": 11
+  },
+  "Phenotype": {
+    "type": "int",
+    "value": 2
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 144
+  },
+  "Race": {
+    "type": "byte",
+    "value": 7
+  },
+  "refbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "ScriptAttacked": {
+    "type": "resref",
+    "value": "x2_def_attacked"
+  },
+  "ScriptDamaged": {
+    "type": "resref",
+    "value": "x2_def_ondamage"
+  },
+  "ScriptDeath": {
+    "type": "resref",
+    "value": "x2_def_ondeath"
+  },
+  "ScriptDialogue": {
+    "type": "resref",
+    "value": "x2_def_onconv"
+  },
+  "ScriptDisturbed": {
+    "type": "resref",
+    "value": "x2_def_ondisturb"
+  },
+  "ScriptEndRound": {
+    "type": "resref",
+    "value": "x2_def_endcombat"
+  },
+  "ScriptHeartbeat": {
+    "type": "resref",
+    "value": "x2_def_heartbeat"
+  },
+  "ScriptOnBlocked": {
+    "type": "resref",
+    "value": "x2_def_onblocked"
+  },
+  "ScriptOnNotice": {
+    "type": "resref",
+    "value": "x2_def_percept"
+  },
+  "ScriptRested": {
+    "type": "resref",
+    "value": "x2_def_rested"
+  },
+  "ScriptSpawn": {
+    "type": "resref",
+    "value": "x2_def_spawn"
+  },
+  "ScriptSpellAt": {
+    "type": "resref",
+    "value": "x2_def_spellcast"
+  },
+  "ScriptUserDefine": {
+    "type": "resref",
+    "value": "x2_def_userdef"
+  },
+  "SkillList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 8
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "SoundSetFile": {
+    "type": "word",
+    "value": 5
+  },
+  "SpecAbilityList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 4,
+        "Spell": {
+          "type": "word",
+          "value": 299
+        },
+        "SpellCasterLevel": {
+          "type": "byte",
+          "value": 0
+        },
+        "SpellFlags": {
+          "type": "byte",
+          "value": 1
+        }
+      }
+    ]
+  },
+  "StartingPackage": {
+    "type": "byte",
+    "value": 76
+  },
+  "Str": {
+    "type": "byte",
+    "value": 10
+  },
+  "Subrace": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "badder"
+  },
+  "Tail_New": {
+    "type": "dword",
+    "value": 195
+  },
+  "TemplateList": {
+    "type": "list",
+    "value": []
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "badder"
+  },
+  "WalkRate": {
+    "type": "int",
+    "value": 7
+  },
+  "willbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Wings_New": {
+    "type": "dword",
+    "value": 0
+  },
+  "Wis": {
+    "type": "byte",
+    "value": 16
+  }
+}

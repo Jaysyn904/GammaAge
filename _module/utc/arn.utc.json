@@ -1,0 +1,759 @@
+{
+  "__data_type": "UTC ",
+  "Appearance_Type": {
+    "type": "word",
+    "value": 7
+  },
+  "BodyBag": {
+    "type": "byte",
+    "value": 0
+  },
+  "Cha": {
+    "type": "byte",
+    "value": 3
+  },
+  "ChallengeRating": {
+    "type": "float",
+    "value": 5.0
+  },
+  "ClassList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 2,
+        "Class": {
+          "type": "int",
+          "value": 26
+        },
+        "ClassLevel": {
+          "type": "short",
+          "value": 6
+        }
+      }
+    ]
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Con": {
+    "type": "byte",
+    "value": 11
+  },
+  "Conversation": {
+    "type": "resref",
+    "value": ""
+  },
+  "CRAdjust": {
+    "type": "int",
+    "value": 0
+  },
+  "CurrentHitPoints": {
+    "type": "short",
+    "value": 26
+  },
+  "DecayTime": {
+    "type": "dword",
+    "value": 5000
+  },
+  "Deity": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "This 1.3 meter long mutated insect is often domesticated by small humanoids and used as a riding mount or beast of burden. Arn cannot fly with more than 2 kilograms on their backs and must be caught and trained while young to be of any use. The Arn has large mandibles which can bite. "
+    }
+  },
+  "Dex": {
+    "type": "byte",
+    "value": 14
+  },
+  "Disarmable": {
+    "type": "byte",
+    "value": 1
+  },
+  "Equip_ItemList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 65536,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "nw_it_crewps015"
+        }
+      },
+      {
+        "__struct_id": 131072,
+        "EquippedRes": {
+          "type": "resref",
+          "value": "arnhide"
+        }
+      }
+    ]
+  },
+  "FactionID": {
+    "type": "word",
+    "value": 1
+  },
+  "FeatList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 1,
+        "Feat": {
+          "type": "word",
+          "value": 289
+        }
+      }
+    ]
+  },
+  "FirstName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Arn"
+    }
+  },
+  "fortbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Gender": {
+    "type": "byte",
+    "value": 0
+  },
+  "GoodEvil": {
+    "type": "byte",
+    "value": 50
+  },
+  "HitPoints": {
+    "type": "short",
+    "value": 26
+  },
+  "Int": {
+    "type": "byte",
+    "value": 3
+  },
+  "Interruptable": {
+    "type": "byte",
+    "value": 1
+  },
+  "IsImmortal": {
+    "type": "byte",
+    "value": 0
+  },
+  "IsPC": {
+    "type": "byte",
+    "value": 0
+  },
+  "LastName": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "LawfulChaotic": {
+    "type": "byte",
+    "value": 50
+  },
+  "Lootable": {
+    "type": "byte",
+    "value": 0
+  },
+  "MaxHitPoints": {
+    "type": "short",
+    "value": 26
+  },
+  "NaturalAC": {
+    "type": "byte",
+    "value": 0
+  },
+  "NoPermDeath": {
+    "type": "byte",
+    "value": 1
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 7
+  },
+  "PerceptionRange": {
+    "type": "byte",
+    "value": 11
+  },
+  "Phenotype": {
+    "type": "int",
+    "value": 0
+  },
+  "Plot": {
+    "type": "byte",
+    "value": 0
+  },
+  "PortraitId": {
+    "type": "word",
+    "value": 2067
+  },
+  "Race": {
+    "type": "byte",
+    "value": 7
+  },
+  "refbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "ScriptAttacked": {
+    "type": "resref",
+    "value": "x2_def_attacked"
+  },
+  "ScriptDamaged": {
+    "type": "resref",
+    "value": "x2_def_ondamage"
+  },
+  "ScriptDeath": {
+    "type": "resref",
+    "value": "x2_def_ondeath"
+  },
+  "ScriptDialogue": {
+    "type": "resref",
+    "value": "x2_def_onconv"
+  },
+  "ScriptDisturbed": {
+    "type": "resref",
+    "value": "x2_def_ondisturb"
+  },
+  "ScriptEndRound": {
+    "type": "resref",
+    "value": "x2_def_endcombat"
+  },
+  "ScriptHeartbeat": {
+    "type": "resref",
+    "value": "x2_def_heartbeat"
+  },
+  "ScriptOnBlocked": {
+    "type": "resref",
+    "value": "x2_def_onblocked"
+  },
+  "ScriptOnNotice": {
+    "type": "resref",
+    "value": "x2_def_percept"
+  },
+  "ScriptRested": {
+    "type": "resref",
+    "value": "x2_def_rested"
+  },
+  "ScriptSpawn": {
+    "type": "resref",
+    "value": "x2_def_spawn"
+  },
+  "ScriptSpellAt": {
+    "type": "resref",
+    "value": "x2_def_spellcast"
+  },
+  "ScriptUserDefine": {
+    "type": "resref",
+    "value": "x2_def_userdef"
+  },
+  "SkillList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 7
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 2
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      },
+      {
+        "__struct_id": 0,
+        "Rank": {
+          "type": "byte",
+          "value": 0
+        }
+      }
+    ]
+  },
+  "SoundSetFile": {
+    "type": "word",
+    "value": 107
+  },
+  "SpecAbilityList": {
+    "type": "list",
+    "value": []
+  },
+  "StartingPackage": {
+    "type": "byte",
+    "value": 88
+  },
+  "Str": {
+    "type": "byte",
+    "value": 8
+  },
+  "Subrace": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "Arn"
+  },
+  "Tail_New": {
+    "type": "dword",
+    "value": 0
+  },
+  "TemplateList": {
+    "type": "list",
+    "value": []
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "arn"
+  },
+  "WalkRate": {
+    "type": "int",
+    "value": 7
+  },
+  "willbonus": {
+    "type": "short",
+    "value": 0
+  },
+  "Wings_New": {
+    "type": "dword",
+    "value": 0
+  },
+  "Wis": {
+    "type": "byte",
+    "value": 5
+  }
+}

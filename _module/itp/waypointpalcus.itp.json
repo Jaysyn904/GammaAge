@@ -1,0 +1,140 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "prc_str_lookup"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "prc_str_lookup"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "npf_wp_chest_sp"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "npf_wp_chest_sp"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Respawn Location"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "waypoint001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Spawn Point"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "spawnpoint"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6798
+        }
+      }
+    ]
+  }
+}

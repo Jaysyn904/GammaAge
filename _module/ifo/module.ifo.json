@@ -1,0 +1,460 @@
+{
+  "__data_type": "IFO ",
+  "Expansion_Pack": {
+    "type": "word",
+    "value": 3
+  },
+  "Mod_Area_list": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "thequietofthemin"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "ruinedminds001"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "prc_maze_01"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "mordmagman06"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "mordmagman05"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "mordmagman04"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "mordmagman03"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "mordmagman02"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "mordmagman01"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "limbo001"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "frozentimes"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "frostedpits"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "ey_dpcon_erewood"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "desolateanddespa"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "dmfi_custom_enc"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "adventurers_inn"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "starting_area"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "bdd_basinrim"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "bdd_cave"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "bdd_smelter"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "wol_a_bbb"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "wol_a_dymond"
+        }
+      }
+    ]
+  },
+  "Mod_Creator_ID": {
+    "type": "int",
+    "value": 2
+  },
+  "Mod_CustomTlk": {
+    "type": "cexostring",
+    "value": "gamma_age_v2"
+  },
+  "Mod_CutSceneList": {
+    "type": "list",
+    "value": []
+  },
+  "Mod_DawnHour": {
+    "type": "byte",
+    "value": 6
+  },
+  "Mod_Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "Gamma Age v2\n\nPRC 4 + DMFI"
+    }
+  },
+  "Mod_DuskHour": {
+    "type": "byte",
+    "value": 18
+  },
+  "Mod_Entry_Area": {
+    "type": "resref",
+    "value": "starting_area"
+  },
+  "Mod_Entry_Dir_X": {
+    "type": "float",
+    "value": -0.99969881772995
+  },
+  "Mod_Entry_Dir_Y": {
+    "type": "float",
+    "value": 0.02454137429594994
+  },
+  "Mod_Entry_X": {
+    "type": "float",
+    "value": 26.0
+  },
+  "Mod_Entry_Y": {
+    "type": "float",
+    "value": 14.0
+  },
+  "Mod_Entry_Z": {
+    "type": "float",
+    "value": 0.0
+  },
+  "Mod_Expan_List": {
+    "type": "list",
+    "value": []
+  },
+  "Mod_GVar_List": {
+    "type": "list",
+    "value": []
+  },
+  "Mod_HakList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "gamma_age_v2_top"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "stylish_gui_v1"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_2das"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_scripts"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_newspellbook"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_spells"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_epicspells"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_psionics"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_race"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_textures"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_misc"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "prc_craft2das"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "mdrn22_creature"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "mdrn22_placeable"
+        }
+      },
+      {
+        "__struct_id": 8,
+        "Mod_Hak": {
+          "type": "cexostring",
+          "value": "mdrn22_tile"
+        }
+      }
+    ]
+  },
+  "Mod_ID": {
+    "type": "void",
+    "value": "cœ˜!ªK§ê*\u0028¦úJmNž"
+  },
+  "Mod_IsSaveGame": {
+    "type": "byte",
+    "value": 0
+  },
+  "Mod_MinGameVer": {
+    "type": "cexostring",
+    "value": "1.83"
+  },
+  "Mod_MinPerHour": {
+    "type": "byte",
+    "value": 15
+  },
+  "Mod_Name": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "gamma_age_v2"
+    }
+  },
+  "Mod_OnAcquirItem": {
+    "type": "resref",
+    "value": "hif_onacquireite"
+  },
+  "Mod_OnActvtItem": {
+    "type": "resref",
+    "value": "hif_onactivateit"
+  },
+  "Mod_OnClientEntr": {
+    "type": "resref",
+    "value": "hif_onclientente"
+  },
+  "Mod_OnClientLeav": {
+    "type": "resref",
+    "value": "hif_onclientleav"
+  },
+  "Mod_OnCutsnAbort": {
+    "type": "resref",
+    "value": "prc_oncutabort"
+  },
+  "Mod_OnHeartbeat": {
+    "type": "resref",
+    "value": "hif_onheartbeat"
+  },
+  "Mod_OnModLoad": {
+    "type": "resref",
+    "value": "hif_onmoduleload"
+  },
+  "Mod_OnModStart": {
+    "type": "resref",
+    "value": ""
+  },
+  "Mod_OnPlrChat": {
+    "type": "resref",
+    "value": "hif_onplayerchat"
+  },
+  "Mod_OnPlrDeath": {
+    "type": "resref",
+    "value": "hif_onplayerdeat"
+  },
+  "Mod_OnPlrDying": {
+    "type": "resref",
+    "value": "hif_onplayerdyin"
+  },
+  "Mod_OnPlrEqItm": {
+    "type": "resref",
+    "value": "hif_onplayerequi"
+  },
+  "Mod_OnPlrLvlUp": {
+    "type": "resref",
+    "value": "prc_levelup"
+  },
+  "Mod_OnPlrRest": {
+    "type": "resref",
+    "value": "hif_onplayerrest"
+  },
+  "Mod_OnPlrUnEqItm": {
+    "type": "resref",
+    "value": "hif_onplayeruneq"
+  },
+  "Mod_OnSpawnBtnDn": {
+    "type": "resref",
+    "value": "hif_onplayerresp"
+  },
+  "Mod_OnUnAqreItem": {
+    "type": "resref",
+    "value": "hif_onunaquireit"
+  },
+  "Mod_OnUsrDefined": {
+    "type": "resref",
+    "value": "prc_onuserdef"
+  },
+  "Mod_StartDay": {
+    "type": "byte",
+    "value": 1
+  },
+  "Mod_StartHour": {
+    "type": "byte",
+    "value": 14
+  },
+  "Mod_StartMonth": {
+    "type": "byte",
+    "value": 6
+  },
+  "Mod_StartMovie": {
+    "type": "resref",
+    "value": ""
+  },
+  "Mod_StartYear": {
+    "type": "dword",
+    "value": 1372
+  },
+  "Mod_Tag": {
+    "type": "cexostring",
+    "value": "MODULE"
+  },
+  "Mod_Version": {
+    "type": "dword",
+    "value": 3
+  },
+  "Mod_XPScale": {
+    "type": "byte",
+    "value": 0
+  }
+}

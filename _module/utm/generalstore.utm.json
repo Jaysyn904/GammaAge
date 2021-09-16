@@ -1,0 +1,109 @@
+{
+  "__data_type": "UTM ",
+  "BlackMarket": {
+    "type": "byte",
+    "value": 0
+  },
+  "BM_MarkDown": {
+    "type": "int",
+    "value": 25
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "This is a base store with the \"gen_store\" tag. As long as you do not have multiple stores in an area, this is the only one you ever need to use, just copy and rename (but don't change the tag) to configure for your merchants.\r\n\r\nThe store is activated using the \"store_gen_start\" script, placed in a conversation node. The sample \"store_gen_start\" conversation is included and can also be copied/modified for use with multiple merchants, or used as is.\r\n\r\nThe base store has only one inventory item (a torch, under miscellaneous) as a placeholder."
+  },
+  "ID": {
+    "type": "byte",
+    "value": 5
+  },
+  "IdentifyPrice": {
+    "type": "int",
+    "value": 100
+  },
+  "LocName": {
+    "type": "cexolocstring",
+    "value": {
+      "0": "General Store"
+    }
+  },
+  "MarkDown": {
+    "type": "int",
+    "value": 65
+  },
+  "MarkUp": {
+    "type": "int",
+    "value": 100
+  },
+  "MaxBuyPrice": {
+    "type": "int",
+    "value": -1
+  },
+  "OnOpenStore": {
+    "type": "resref",
+    "value": ""
+  },
+  "OnStoreClosed": {
+    "type": "resref",
+    "value": ""
+  },
+  "ResRef": {
+    "type": "resref",
+    "value": "generalstore"
+  },
+  "StoreGold": {
+    "type": "int",
+    "value": -1
+  },
+  "StoreList": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0
+      },
+      {
+        "__struct_id": 4
+      },
+      {
+        "__struct_id": 2
+      },
+      {
+        "__struct_id": 3
+      },
+      {
+        "__struct_id": 1,
+        "ItemList": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "InventoryRes": {
+                "type": "resref",
+                "value": "nw_it_torch001"
+              },
+              "Repos_PosX": {
+                "type": "word",
+                "value": 0
+              },
+              "Repos_Posy": {
+                "type": "word",
+                "value": 0
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "gen_store"
+  },
+  "WillNotBuy": {
+    "type": "list",
+    "value": []
+  },
+  "WillOnlyBuy": {
+    "type": "list",
+    "value": []
+  }
+}

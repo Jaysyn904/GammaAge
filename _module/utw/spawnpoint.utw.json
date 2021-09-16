@@ -1,0 +1,52 @@
+{
+  "__data_type": "UTW ",
+  "Appearance": {
+    "type": "byte",
+    "value": 2
+  },
+  "Comment": {
+    "type": "cexostring",
+    "value": "This is the default waypoint you may place to set a Spawn point for the BESIE PW Spawner tool.\r\n1. Place a PW Spawner tool anywhere in the area.\r\n2. Set all other parameters on the PW Spawner tool according to the instructions found in the comments sections on that tool.\r\n3. Change the tag of this waypoint to match the Will Save number of the tool.  ie. if the Will Save of the PW Spawner is 2 then change the tag of this Waypoint to \"PWS02\"\r\n4. Add any special behavior designators to the end of the tag ie. \"PWS02s2s1\".  See the following table for behavior designators:\r\n\r\nBehavior designators:\r\ns1 - Do not return to spawn point after chasing an enemy (or moving for any other reason).  This should be set if the creature spawned here has waypoints to walk or to POST.\r\ns2 - Random Walk.  This creature will randomly walk a small patrol area via the RandomWalk() function.\r\ns3 - Sit.  The creature will sit on the ground instead of standing (provided he has a sitting animation).\r\ns4 - No Regeneration.  The Creature will not regenerate hitpoints.  Note, this does NOT prevent a creature who regenerates naturally or due to some other source from regenerating.\r\ns5 - Only at day.  Only spawn this creature during dawn or day.\r\ns6 - Only at night.  Only spawn this creature during dusk or night.\r\nb## - Begin Time.  Spawn in at this time.\r\ne## - End Time - Spawn out at this time.\r\n(note: do not use e or b with s5 or s6)\r\nt## - Territroy.  If the creature goes outside of this territory range it will teleport back to the spawn point when not in combat.  NOTE: Can NOT be set below 30 meters.  If set below 30 meters it will default to 30."
+  },
+  "Description": {
+    "type": "cexolocstring",
+    "value": {
+      "0": ""
+    }
+  },
+  "HasMapNote": {
+    "type": "byte",
+    "value": 0
+  },
+  "LinkedTo": {
+    "type": "cexostring",
+    "value": ""
+  },
+  "LocalizedName": {
+    "id": 14817,
+    "type": "cexolocstring",
+    "value": {
+      "0": "Spawn Point"
+    }
+  },
+  "MapNote": {
+    "type": "cexolocstring",
+    "value": {}
+  },
+  "MapNoteEnabled": {
+    "type": "byte",
+    "value": 1
+  },
+  "PaletteID": {
+    "type": "byte",
+    "value": 5
+  },
+  "Tag": {
+    "type": "cexostring",
+    "value": "PWS00"
+  },
+  "TemplateResRef": {
+    "type": "resref",
+    "value": "spawnpoint"
+  }
+}

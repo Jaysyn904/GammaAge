@@ -1,0 +1,47 @@
+{
+  "TlkPath": "./gamma_age_v2.tlk",
+  "OutputPath": "./_output/",
+  "HakList": [
+    {
+      "Name":  "ga_2das",
+      "Path": "./ga_2das/",
+      "CompileModels": false
+    },
+    {
+      "Name":  "ga_creatures",
+      "Path": "./ga_creatures/",
+      "CompileModels": false
+    },
+    {
+      "Name":  "ga_phenos",
+      "Path": "./ga_phenos/",
+      "CompileModels": false
+    },
+    {
+      "Name":  "ga_portraits",
+      "Path": "./ga_portraits/",
+      "CompileModels": false
+    },
+    {
+      "Name":  "mdrn22_creature",
+      "Path": "./mdrn22_creature/",
+      "CompileModels": false
+    },
+    {
+      "Name":  "mdrn22_placeable",
+      "Path": "./mdrn22_placeable/",
+      "CompileModels": false
+    },
+    {
+      "Name":  "mdrn22_tile",
+      "Path": "./mdrn22_tile/",
+      "CompileModels": false
+    },
+    {
+      "Name":  "q_tilesets",
+      "Path": "./q_tilesets/",
+      "CompileModels": false
+    },
+    
+  ]
+}

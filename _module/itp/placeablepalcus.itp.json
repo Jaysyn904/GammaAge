@@ -1,0 +1,802 @@
+{
+  "__data_type": "ITP ",
+  "MAIN": {
+    "type": "list",
+    "value": [
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 7
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6783
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 22
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 111663
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 6
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Chest"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "chest002"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "xchst_plc"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5348
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Null Psionics Field Chest"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "npf_keep_chest"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Place Trash Here"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "chest004"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6782
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 8
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6784
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 9
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Altar"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "codi_sam_altar"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "BESIE RES"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "randomencounters"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Commoner Spawner"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "commonerspawner"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "MMORPG Spawner"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mmorpgspawner"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Placeable Spawner"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "placeablerespawn"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "PW RES"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "besiepwres"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "PW Respawner"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "pwrespawner"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Wall of Iron"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "prc_walliron"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 1592
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 10
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Bench"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "bench001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Chair"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "chair001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Chair"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "chair1_sit"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Couch"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "couch001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Mordenkainen's Magnificent Mansion"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "mordsmansent"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Moveable Chair"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "movechair"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Moveable Stool"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "movestool"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Restful Bed"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "restfulbed"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Restful Bed"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "restfulbed001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Restful Bed Roll"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "restfulbedroll"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Restful Campsite"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "campingbedroll"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Restful Cot"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "restfulcot"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Sit"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "invisobj001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Stool"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "stool001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Throne - Evil"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "throneevil001"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Throne - Good"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "thronegood001"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6785
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 11
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6786
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 12
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6787
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 14
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 9122
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 15
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "RESREF": {
+                "type": "resref",
+                "value": "sp_plc_symbol"
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 16790080
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 9128
+        }
+      },
+      {
+        "__struct_id": 0,
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 0
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Deepstone Pillar"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "prc_dpst_pillar"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "prc_invisobj"
+                    },
+                    "STRREF": {
+                      "type": "dword",
+                      "value": 5800
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "prc_ess_research"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "prc_ess_research"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "prgt_invis"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "prgt_invis"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6688
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 1
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "LichCrafting"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "lichcrafting"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6689
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 2
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6690
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 3
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6691
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 4
+              },
+              "LIST": {
+                "type": "list",
+                "value": [
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "<cÿÿÿ><cÿÿ ><cÿ ÿ><c ÿÿ><cÿ  ><c ÿ ><c  ÿ><cÿÿÿ>Color Tag Generator"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dem_color_text"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "DMFI Bed Roll"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dmfi_rest002"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "DMFI Campfire"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dmfi_rest001"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "DMFI Invisible Rest Object"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dmfi_rest"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "DMFI Rest VFX Applier"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dmfi_restvfxobje"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "DMFI Tent"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "dmfi_rest003"
+                    }
+                  },
+                  {
+                    "__struct_id": 0,
+                    "NAME": {
+                      "type": "cexostring",
+                      "value": "Items on corpse"
+                    },
+                    "RESREF": {
+                      "type": "resref",
+                      "value": "habd_deathbag"
+                    }
+                  }
+                ]
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 6692
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6687
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 13
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6788
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 16
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 17
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 62485
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 19
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 5836
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 21
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 67585
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 20
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 53151
+              }
+            },
+            {
+              "__struct_id": 0,
+              "ID": {
+                "type": "byte",
+                "value": 18
+              },
+              "STRREF": {
+                "type": "dword",
+                "value": 67132
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 66490
+        }
+      },
+      {
+        "__struct_id": 0,
+        "ID": {
+          "type": "byte",
+          "value": 5
+        },
+        "LIST": {
+          "type": "list",
+          "value": [
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Genesis Enterance Portal"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "genesisportal"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Genesis Exit Portal"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "genesisexit"
+              }
+            },
+            {
+              "__struct_id": 0,
+              "NAME": {
+                "type": "cexostring",
+                "value": "Starting Portal"
+              },
+              "RESREF": {
+                "type": "resref",
+                "value": "solblue"
+              }
+            }
+          ]
+        },
+        "STRREF": {
+          "type": "dword",
+          "value": 6781
+        }
+      }
+    ]
+  }
+}
