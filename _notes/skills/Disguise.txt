@@ -1,0 +1,10 @@
+Disguise
+
+Ability: Charisma.
+Requires Training: No.
+
+Use this skill to change your appearance.  The effor requires at least a few props and some make up.  A disguise can include an apparent change of height or weight of no more than one-tenth the original unless specially crafted prosthetics or costumes are utilized.
+
+Check: A character’s Disguise check result determines how good the disguise is. It is opposed by others’ Spot check results.
+
+The effectiveness of the character’s disguise depends in part on how much the character is attempting to change his or her appearance.

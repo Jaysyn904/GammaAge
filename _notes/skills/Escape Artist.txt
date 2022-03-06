@@ -1,0 +1,25 @@
+Ability: Dexterity.
+Requires Training: No.
+
+Check: Make a check to escape from restraints or to squeeze through a tight space.
+
+Restraint 		DC
+Ropes 			Opponent's Dex check +20
+Net 			20
+Handcuffs 		35
+Tight space 	30
+Grappler 		Opponent’s grapple check
+
+For ropes, a character’s Escape Artist check is opposed by the Dexterity check result of the opponent who tied the bonds. Since it’s easier to tie someone up than to escape from being tied up, the opponent gets a +20 bonus on his or her Dexterity check.
+
+For a tight space, a check is only called for if the character’s head fits but his or her shoulders don’t. If the space is long, such as in an airshaft, the GM may call for multiple checks. A character can’t fit through a space that his or her head doesn’t fit through.
+
+A character can make an Escape Artist check opposed by his or her opponent’s grapple check to get out of a grapple or out of a pinned condition (so that the character is just being grappled). Doing so is an attack action, so if the character escapes the grapple he or she can move in the same round.
+
+Try again?: A character can make another check after a failed check if the character is squeezing through a tight space, making multiple checks. If the situation permits, the character can make additional checks as long as he or she is not being actively opposed.
+
+Special: A character can take 10 on an Escape Artist check. A character can take 20 if he or she is not being actively opposed (a character can take 20 if he or she is tied up, even though it’s an opposed check, because the opponent isn’t actively opposing the character).
+
+A character with the Nimble feat gets a +2 bonus on all Escape Artist checks.
+
+Time: Making a check to escape from being bound by ropes, handcuffs, or other restraints (except a grappler) requires 1 minute. Escaping a net is a full-round action. Squeezing through a tight space takes at least 1 minute, maybe longer, depending on the distance that must be crossed.

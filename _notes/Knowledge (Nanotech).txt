@@ -1,6 +1,0 @@
-Knowledge (Nanotech)
-
-Ability: Intelligence.
-Requires Training: Yes.
-
-Far and away the most advanced form of technology the world has ever seen, nanotechnology is in a class of its own compared to the other “era-based” Knowledge (Technology) skills. Because nanotechnology is a marriage of everything from biology and computer science to robotics and quantum mechanics, 5 or more ranks in Knowledge (Nanotech) gives the character a +2 synergy bonus on the following skills: Craft (Nanotech), Knowledge (Life Sciences) and Knowledge (Physical Sciences).

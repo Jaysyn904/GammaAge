@@ -1,4 +1,0 @@
-Ability: Dexterity.
-Requires Training: No.
-
-Use this skill to 

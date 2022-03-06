@@ -1,0 +1,11 @@
+No one can say when the line between “robot” and “synthetic” was crossed; but by the height of the Final Wars, these machines, intelligent and self-aware, were fighting alongside (or in lieu of) human and engineered soldiers.  Efficiency was the rule of the day, and the same self-repair and ambient power subsystems that kept the machines out of the workshops and on the battlefields keep them running in the Gamma World.  Synthetics come in any number of shapes, types and sizes. Androids are the most human-like synthetics.  While close inspection reveals the synthetic nature of the android’s skin, hair and eyes, to the casual observer an android appears to be a human being (even going so far as to have body temperature, breath and saliva). Maintaining the outward appearance of an android is labor intensive and expensive; in the Gamma World, many androids (or their owners) do not have the necessary resources, so the android begins to appear ragged, worn and ill-used. Over time, an unkempt android appears more like a walking corpse than a human being.
+
+Android Ability Adjustments: -2 CHA, +2 INT 
+
+Special Abilities:
+
+- Construct: Synthetic characters are constructs.  Constructs are immune to mind-influencing effects, poison, sleep, paralysis, stunning & disease.  Due to the extreme complexities of synthetic design technology, synthetic characters are subject to critical hits and the effects of massive damage. 
+- Medium Robot base land speed is 30 feet.
+- Damage Reduction: All synthetic characters are resistant to damage from kinetic sources, such as punches, kicks, bullets and falls. Synthetics have damage reduction 5/energy.
+- Narrow Focus: Synthetic characters have specific programming that determines their capabilities.  The following feats cannot be chosen after character generation: Animal Affinity, Athletic, Attentive, Cautious,
+Confident, Creative, Deceptive, Educated, Endurance, Focused, Improved Damage Threshold, Iron Will, Meticulous, Nimble, Studious, Trustworthy. Synthetic characters may overcome this prohibition by taking the Spontaneous Algorithm feat.

@@ -1,0 +1,8 @@
+Decipher Script
+
+Ability: Intelligence.
+Requires Training: Yes.
+
+Check: A character can decipher writing in an ancient language or in code, or interpret the meaning of an incomplete text. The base DC is 20 for the simplest messages, 25 for standard codes, and 30 or higher for intricate or complex codes or exotic messages. Helpful texts or computer programs can provide a bonus (usually a +2 circumstance bonus) on the check, provided they are applicable to the script in question.
+
+If the check succeeds, the character understands the general content of a piece of writing, reading about one page of text or its equivalent in 1 minute. If the check fails, the GM makes a Wisdom check (DC 10) for the character to see if he or she avoids drawing a false conclusion about the text. (Success means that the character does not draw a false conclusion; failure means that the character does.)

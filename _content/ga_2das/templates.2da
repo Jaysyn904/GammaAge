@@ -176,7 +176,7 @@
 172        MUT_HANDS_FLAMING                 16779352 16779353    0    2    mut_t_firehand   ****        mut_m_firehand   
 173        MUT_HANDS_FREEZING                16779354 16779355    0    2    mut_t_icehand    ****        mut_m_icehand    
 174        MUT_HANDS_HEALING                 16779356 16779357    0    2    mut_t_healhand   ****        mut_m_healhand   
-175        MUT_HANDS_SHOCKING_               16779358 16779359    0    2    mut_t_elechand   ****        mut_m_elechand   
+175        MUT_HANDS_SHOCKING                16779358 16779359    0    2    mut_t_elechand   ****        mut_m_elechand   
 176        MUT_HEIGHTENED_BALANCE            16779360 16779361    0    2    mut_t_balance    ****        mut_m_balance    
 177        MUT_HEIGHTENED_HEARING            16779362 16779363    0    2    mut_t_hearing    ****        mut_m_hearing    
 178        MUT_HEIGHTENED_PRECISION          16779364 16779365    0    2    mut_t_precision  ****        mut_m_precision  

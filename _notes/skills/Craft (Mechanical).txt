@@ -1,0 +1,12 @@
+Craft (Mechanical)
+
+Ability: Intelligence.
+Requires Training: Yes.
+
+This skill allows a character to build mechanical devices from scratch, including engines and engine parts, weapons, armor, and other gadgets. When building a mechanical device from scratch, the character describes the kind of device he or she wants to construct; then the Gamemaster decides if the device is simple, moderate, complex, or advanced compared to current technology.
+
+The character using this skill can combine raw components to form various trap kits. There is a 10% chance on any failed skill roll that the components are lost, even though a trap was not crafted.
+
+Check: The DC is determined by the type of trap being created. The more powerful the trap, the more difficult it is to build and the more components it requires.
+
+Special: A character without a mechanical tool kit takes a –4 penalty on Craft (Mechanical) checks.

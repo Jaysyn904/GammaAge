@@ -1,0 +1,8 @@
+Craft (Pharmaceuticals)
+
+Ability: Intelligence.
+Requires Training: Yes.
+
+Craft (Pharmaceuticals) allows a character to produce all manner of medicinal & biotech drugs. Given the proper materials, time and equipment, a character with this skill can create mutagens, mutation inhibitors, genetically engineered pathogens and even entirely new forms of life.
+
+NOTE: This skill supplants & functions as Craft (Alchemy)

@@ -1,0 +1,21 @@
+Perform
+
+Ability: Charisma.
+Requires Training: Yes.
+
+The character is accomplished in some type of artistic expression and knows how to put on a performance. The character can impress audiences with his or her talent and skill. The quality of the character’s performance depends on his or her check result.
+
+Result 	Performance
+10 		Amateur performance. Audience may appreciate your performance, but isn’t impressed.
+15 		Routine performance. Audience enjoys your performance, but it isn’t exceptional.
+20 		Great performance. Audience highly impressed.
+25 		Memorable performance. Audience enthusiastic.
+30 		Masterful performance. Audience awed.
+
+Try Again?: Not for the same performance and audience.
+
+Special: A character can take 10 when making a Perform check, but can’t take 20.
+
+A character without an appropriate instrument automatically fails any check he or she attempts. At the GM’s discretion, impromptu instruments may be employed, but the performer must take a –4 penalty on the check because his or her equipment, although usable, is inappropriate for the skill.
+
+Time: A Perform check usually requires at least several minutes to an hour or more.

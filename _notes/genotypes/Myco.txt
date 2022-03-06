@@ -1,0 +1,13 @@
+Sentient plants, or greenfolk, are a wondrous new life form. Mobile and sometimes ferocious, they have the ability to think and reason and can carry unusual mutations. They can be fearsome opponents and valued allies. Generally, looking like their plant ancestor they can uproot themselves to move and all Gamma Age player character greenfolk have the ability to manipulate their surroundings and can communicate verbally and sometimes even telepathically.  Greenfolk that are decended from fungus & lichens are called mycos.  They are tough and hardy with a penchant for surviving where other creatures can't.  Mycos have a generally alien mindset, even in regards to other greenfolk.
+
+Myco Ability Adjustments: +1 WIS, +2 CON 
+
+Special Abilities:
+
+- Medium: As Medium creatures, mycos have no special bonuses or penalties due to their size.
+- Myco base land speed is 20 feet.
+- Greenfolk: Greenfolk have all of the usual Plant creature immunities, immunity to sleep, paralyze, poison, stunning and critical hits, but they do not receive immunity to mind-affecting effects.  All greenfolk receive +2 racial bonus to their Hide & Move Silently skills, a –2 penalty to Bluff & Diplomacy vs non-plants, a -2 penalty to Decipher Script and a -4 penalty to Tumble & Balance.
+- Hardy: Mycos fungal physiology renders them resistant to most physical ailments & grants them a +1 to all Fortitude saves.
+- Rubbery Hide: Mycos rubbery flesh makes them immune to subdual damage.
+- Mutations: Greenfolk characters begin with 1 minor positive mutation, 1 major positive mutation and 1 minor negative mutation.  Choose the positive mutations, and then roll for the negative one.
+- Genetic Instability: Mutants of all sorts suffer from genetic instability.  All mutant characters suffer a –2 penalty on all saves against developing new mutations (such as when exposed to environmental mutagens.  This penalty increases by –1 for every two character levels (for example, a 2nd-level mutant suffers a –3 to her save against mutation).

@@ -1,0 +1,6 @@
+Computer Use (Biotech)
+
+Ability: Intelligence.
+Requires Training: Yes.
+
+Due to the extreme complexity of manipulating the genome (human or otherwise), specific computer systems must be used for dealing with biotech. This skill allows a character to operate such systems.  Note that this skill does not impart any training in biotechnology; the skill Knowledge (Life Sciences) must be purchased for that purpose.

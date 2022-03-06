@@ -1,0 +1,10 @@
+Knowledge (Business)
+
+Ability: Intelligence.
+Requires Training: No.
+
+The art of the deal remains largely the same, even if commodities and currencies have changed a great deal. Knowledge (business) covers business theory, historical business models and, where appropriate, business law. The higher the character's skill the better the price received when selling or purchasing goods.
+
+Check: The character makes an opposed roll against the merchant's skill. If the merchant wins, the characters pay more for the goods in the store. If the character wins, they pay less. The first time the player interacts with a merchant dictates the prices in that store until their skill improves.
+
+NOTE: This skill supplants & function as the Appraise skill.

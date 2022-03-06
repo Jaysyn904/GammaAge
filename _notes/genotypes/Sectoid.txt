@@ -1,0 +1,14 @@
+The Engineered are some of the most common mutants on Gamma Terra, and the most likely to breed true and create communities of their own. Final Wars era scientists designed these “moreaus” primarily as living weapons and hyper-specialized workers and soldiers, though some breeds were made for entertainment, pleasure and experimentation.  Whatever a particular strain’s origins, many of them escaped into the wild during or  immediately following the Final Wars and not only survived, but prospered.  Almost any higher animal imaginable, and a few fish & invertibrates, have been elevated to this man-like status, and to varying degrees.  "Sectiod" is a catch-all term to describe engineered mutants that have a bee, ant, beetle, cricket or similar insect as their genetic progenitor.
+
+Sectiod Ability Adjustments: -2 CHA 
+
+Special Abilities:
+
+- Engineered: All Engineered receive a +2 to Hide & Move Silently checks & a -2 to Decipher Script checks.
+- Medium: As Medium creatures, sectiods have no special bonuses or penalties due to their size.
+- Sectiod base land speed is 30 feet.
+- Skill Affinity (Climb) & Skill Affinity (Jump): Sectoids are natural climbers & leapers.
+- Wings: A sectiod's wings give them a +2 dodge bonus & immunity to terrain effects.
+- Exoskeleton: A sectiod's exoskeleton grants a +1 Natural Armor Bonus.
+- Mutations: Engineered characters begin with 2 minor positive mutations, 1 major positive mutation and 1 minor negative mutation.  Choose the positive mutations, and then roll for the negative one.
+- Genetic Instability: Mutants of all sorts suffer from genetic instability.  All mutant characters suffer a –2 penalty on all saves against developing new mutations (such as when exposed to environmental mutagens.  This penalty increases by –1 for every two character levels (for example, a 2nd-level mutant suffers a –3 to her save against mutation).

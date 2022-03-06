@@ -1,6 +1,0 @@
-Craft (Structural)
-
-Ability: Intelligence.
-Requires Training: No.
-
-This skill allows a character to to craft various items as well as build wooden, concrete, or metal structures from scratch, including bookcases, desks, walls, houses, and so forth, and includes such handyman skills as plumbing, painting, drywall, laying cement, and building cabinets.

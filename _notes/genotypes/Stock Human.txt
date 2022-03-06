@@ -1,0 +1,11 @@
+Stock humans are the most common genotype on Gamma Terra.  They are like ancient humans in almost every way, though they are perhaps somewhat hardier, and possess the same infinite potential of those of antiquity.  Despite the competition from other races, mutants in particular, stock humans may yet reclaim their position as the dominant species.
+
+Stock Human Ability Adjustments: None
+
+Special Abilities:
+
+- Medium: As Medium creatures, stock humans have no special bonuses or penalties due to their size.
+- Stock Human base land speed is 30 feet.
+- Quick To Master: 1 extra feat at 1st level.
+- 4 extra skill points at 1st level and 1 extra skill point at each additional level.
+

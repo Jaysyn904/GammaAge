@@ -1,0 +1,10 @@
+Pure-strain humans are those individuals who have, through technology and physical isolation, remained largely unmolested by the ravages of the Final Wars. Hailing from remote communities or protected environments built before the Final Wars, pure-strain humans are the oldest new members of Gamma Terra. Though blessed with the technology and knowledge of the previous age, pure-strain humans lack personal experience and often even theoretical information about the environments of Gamma Terra.
+
+
+Pure-Strain Human Ability Adjustments: -2 STR, -2 CHA, +2 INT, +2 CON 
+
+Special Abilities:
+
+- Medium: As Medium creatures, pure-strain humans have no special bonuses or penalties due to their size.
+- Pure-Strain Human base land speed is 30 feet.
+- 4 extra skill points at 1st level and 1 extra skill point at each additional level.
