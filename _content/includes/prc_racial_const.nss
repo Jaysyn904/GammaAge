@@ -32,8 +32,6 @@ const int RACIAL_TYPE_CULEN		=	47;
 const int RACIAL_TYPE_ENT		=	48;
 const int RACIAL_TYPE_CREEP		=	49;
 
-
-
 //Darksun races
 const int RACIAL_TYPE_AARAKOCRA            = 999;
 const int RACIAL_TYPE_DS_DWARF             = 999;
