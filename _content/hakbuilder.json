@@ -42,6 +42,10 @@
       "Path": "./q_tilesets/",
       "CompileModels": false
     },
-    
+     {
+      "Name":  "ga_scripts",
+      "Path": "./ga_scripts/",
+      "CompileModels": false
+    },   
   ]
 }
