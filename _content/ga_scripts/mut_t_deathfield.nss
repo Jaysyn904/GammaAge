@@ -1,19 +1,20 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adherence template test script
-//:: FileName       tmp_t_adherence.nss
+//:: Name           Death Field template test script
+//:: FileName       mut_t_deathfield.nss
 //:: Copyright (c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Adherence (Physical)
-Fine hooks or hairs on the mutant’s hands and feet allows him to climb easily 
-or even cling to the ceiling. The character must have hands and feet uncovered 
-to use this ability, and must be carrying no more than a medium load.  The 
-mutant gains a +8 to Climb checks and a 4 to grapple checks.
+Death-field (Mental)
+The mutant can harm all living things within 20 feet. When activated any living 
+creature in range takes 2d6 lethal radiation damage plus CON modifier, each 
+round. Once activated, it can be kept active as a swift action. The mutant 
+takes half of this damage as non-lethal damage. This non-lethal damage is 
+healed at a rate of 1 hit point per hour per character level.
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/20
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -26,17 +27,10 @@ void main()
     object oPC = OBJECT_SELF;
     SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_CONTINUE);	
 
-//:: No pure strain humans, plants, oozes, cyborgs, shapechangers or non-living genotypes
+//:: Any living genotype except oozes, cyborgs & shapechangers
     int nRace = MyPRCGetRacialType(oPC);
+	
     if(nRace == RACIAL_TYPE_CONSTRUCT
-	|| nRace == RACIAL_TYPE_PLANT
-	|| nRace == RACIAL_TYPE_PSH
-	|| nRace == RACIAL_TYPE_SHRUBO
-	|| nRace == RACIAL_TYPE_BLOOM
-	|| nRace == RACIAL_TYPE_MYCO
-	|| nRace == RACIAL_TYPE_CULEN
-	|| nRace == RACIAL_TYPE_ENT
-	|| nRace == RACIAL_TYPE_CREEP
 	|| nRace == RACIAL_TYPE_SMLBOT 
 	|| nRace == RACIAL_TYPE_MEDBOT
 	|| nRace == RACIAL_TYPE_LRGBOT
@@ -48,10 +42,10 @@ void main()
 	|| nRace == RACIAL_TYPE_UNDEAD)	   
     {
         SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
-    }   
+    }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ADHERENCE, oPC)) 
+	if(GetHasTemplate(MUT_DEATH_FIELD_GENERATION, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

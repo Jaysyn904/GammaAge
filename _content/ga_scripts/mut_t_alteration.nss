@@ -4,7 +4,7 @@
 //:: Copyright (c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Alteration
+Alteration (Physical)
 The subject can change his face with mere concentration. Bones, cartilage and
 flesh respond to a whim, as do skin and eye colour.  Even the hairline can 
 shift, and a beard can sprout or vanish within minutes
@@ -25,10 +25,17 @@ void main()
     object oPC = OBJECT_SELF;
     SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_CONTINUE);	
 
-//:: Any living genotype except oozes, cyborgs & shapechangers
+//:: No pure strain humans, plants, oozes, cyborgs & shapechangers
     int nRace = MyPRCGetRacialType(oPC);
-	
     if(nRace == RACIAL_TYPE_CONSTRUCT
+	|| nRace == RACIAL_TYPE_PLANT
+	|| nRace == RACIAL_TYPE_PSH
+	|| nRace == RACIAL_TYPE_SHRUBO
+	|| nRace == RACIAL_TYPE_BLOOM
+	|| nRace == RACIAL_TYPE_MYCO
+	|| nRace == RACIAL_TYPE_CULEN
+	|| nRace == RACIAL_TYPE_ENT
+	|| nRace == RACIAL_TYPE_CREEP
 	|| nRace == RACIAL_TYPE_SMLBOT 
 	|| nRace == RACIAL_TYPE_MEDBOT
 	|| nRace == RACIAL_TYPE_LRGBOT
@@ -40,7 +47,7 @@ void main()
 	|| nRace == RACIAL_TYPE_UNDEAD)	   
     {
         SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
-    }    
+    }  
 	
 //:: Can't get this mutation twice.
 	if(GetHasTemplate(MUT_ALTERATION, oPC)) 

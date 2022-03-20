@@ -1,19 +1,21 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adherence template test script
-//:: FileName       tmp_t_adherence.nss
+//:: Name           Claws template test script
+//:: FileName       mut_t_claws.nss
 //:: Copyright (c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Adherence (Physical)
-Fine hooks or hairs on the mutant’s hands and feet allows him to climb easily 
-or even cling to the ceiling. The character must have hands and feet uncovered 
-to use this ability, and must be carrying no more than a medium load.  The 
-mutant gains a +8 to Climb checks and a 4 to grapple checks.
+Claws (Physical)
+The mutant’s hands now have tough bony claws. Whether they sprout from 
+fingertips, the back of the hand, or even the side of the hand is up to the 
+player, as is their exact appearance. The character may now cause lethal damage 
+with unarmed attacks, and is never considered unarmed. A medium size mutant 
+causes 1d6 damage plus STR modifier, with a slashing & piercing attack. (1d4
+damage if small, 1d8 if large.)
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/20
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -26,7 +28,7 @@ void main()
     object oPC = OBJECT_SELF;
     SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_CONTINUE);	
 
-//:: No pure strain humans, plants, oozes, cyborgs, shapechangers or non-living genotypes
+//:: No pure strain humans, plants, oozes, cyborgs & shapechangers
     int nRace = MyPRCGetRacialType(oPC);
     if(nRace == RACIAL_TYPE_CONSTRUCT
 	|| nRace == RACIAL_TYPE_PLANT
@@ -46,12 +48,13 @@ void main()
 	|| nRace == RACIAL_TYPE_CYBORG
 	|| nRace == RACIAL_TYPE_ELEMENTAL 
 	|| nRace == RACIAL_TYPE_UNDEAD)	   
+	
     {
         SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
-    }   
+    }      
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ADHERENCE, oPC)) 
+	if(GetHasTemplate(MUT_CLAWS, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

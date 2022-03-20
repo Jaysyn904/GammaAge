@@ -1,19 +1,22 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adherence template test script
-//:: FileName       tmp_t_adherence.nss
+//:: Name           Chameleon template test script
+//:: FileName       mut_t_chameleon.nss
 //:: Copyright (c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Adherence
-Fine hooks or hairs on the mutant’s hands and feet allows him to climb easily 
-or even cling to the ceiling. The character must have hands and feet uncovered 
-to use this ability, and must be carrying no more than a medium load.  The 
-mutant gains a +8 to Climb checks and a 4 to grapple checks.
+Chameleon (Physical / Plant)
+This mutation allows the character to blend into any background. His body 
+coloration changes to match the colours of any background that is within three 
+feet.  Be aware that his clothes or other belongings do not change colour. His 
+skin (or leaves) continuously change as the mutant moves. The mutant can decide 
+to make his skin any single colour not related to his background, or can choose 
+to look like his normal self. When chameleon power is activate, the character's
+gained a bonus to all Stealth skill checks equal to 5 + DEX modifier.
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/20
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -26,7 +29,7 @@ void main()
     object oPC = OBJECT_SELF;
     SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_CONTINUE);	
 
-//:: Any living genotype except oozes, cyborgs & shapechangers
+//:: Any living genotype except pure strain humans, oozes, cyborgs & shapechangers
     int nRace = MyPRCGetRacialType(oPC);
     if(nRace == RACIAL_TYPE_CONSTRUCT
 	|| nRace == RACIAL_TYPE_SMLBOT 
@@ -34,6 +37,7 @@ void main()
 	|| nRace == RACIAL_TYPE_LRGBOT
 	|| nRace == RACIAL_TYPE_DROID
 	|| nRace == RACIAL_TYPE_OOZE
+	|| nRace == RACIAL_TYPE_PSH
 	|| nRace == RACIAL_TYPE_SHAPECHANGER
 	|| nRace == RACIAL_TYPE_CYBORG
 	|| nRace == RACIAL_TYPE_ELEMENTAL 
@@ -43,7 +47,7 @@ void main()
     }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ADHERENCE, oPC)) 
+	if(GetHasTemplate(MUT_CHAMELEON, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}
