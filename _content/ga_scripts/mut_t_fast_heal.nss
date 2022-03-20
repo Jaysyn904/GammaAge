@@ -1,14 +1,13 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Cold template test script
-//:: FileName       mut_t_ab_cold.nss
+//:: Name           Fast Healing template test script
+//:: FileName       mut_t_fast_heal.nss
 //:: Copyright (c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
-Energy Absorption: Cold (Physical / Plant)
-The character gains Energy Resistance, ignoring the first 10 points + CON 
-modifier of damage from a particular type of energy attack.
-
-[Ignores 10 + CON Bonus of cold damage]
+Fast Healing (Physical / Plant)
+The mutant can heal lost hit points at a rate greater than normal. The character
+heals a number of hit points each minute equal to his 2 + CON modifier, minimum 
+1 point.
 
 */
 //::////////////////////////////////////////////////////////////////////////////
@@ -44,7 +43,7 @@ void main()
     }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ENERGY_ABSORPTION_COLD, oPC)) 
+	if(GetHasTemplate(MUT_FAST_HEALING, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

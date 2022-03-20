@@ -1,14 +1,14 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Cold template test script
-//:: FileName       mut_t_ab_cold.nss
+//:: Name           Energy Absorption: Concussion template test script
+//:: FileName       mut_t_ab_sonic.nss
 //:: Copyright (c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
-Energy Absorption: Cold (Physical / Plant)
+Energy Absorption: Concussion (Physical / Plant)
 The character gains Energy Resistance, ignoring the first 10 points + CON 
 modifier of damage from a particular type of energy attack.
 
-[Ignores 10 + CON Bonus of cold damage]
+[Ignores 10 + CON Bonus of caustic damage]
 
 */
 //::////////////////////////////////////////////////////////////////////////////
@@ -44,7 +44,7 @@ void main()
     }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ENERGY_ABSORPTION_COLD, oPC)) 
+	if(GetHasTemplate(MUT_ENERGY_ABSORPTION_CONCUSSION, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

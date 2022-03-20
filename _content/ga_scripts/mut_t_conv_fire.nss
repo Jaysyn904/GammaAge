@@ -1,14 +1,16 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Cold template test script
-//:: FileName       mut_t_ab_cold.nss
+//:: Name           Energy Conversion: Fire template test script
+//:: FileName       mut_t_conv_fire.nss
 //:: Copyright (c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
-Energy Absorption: Cold (Physical / Plant)
-The character gains Energy Resistance, ignoring the first 10 points + CON 
-modifier of damage from a particular type of energy attack.
+Energy Conversion: Fire (Physical / Plant)
+The mutant can convert the first 5 points + CON modifier of damage from a 
+particular type of energy attack and use it to heal himself.  Additional damage 
+is ignored.
 
-[Ignores 10 + CON Bonus of cold damage]
+Immune to & heals from fire damage. Up to 5 HP + CON bonus / attack. 
+
 
 */
 //::////////////////////////////////////////////////////////////////////////////
@@ -44,7 +46,7 @@ void main()
     }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ENERGY_ABSORPTION_COLD, oPC)) 
+	if(GetHasTemplate(MUT_ENERGY_CONVERSION_FIRE, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

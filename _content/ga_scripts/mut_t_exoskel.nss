@@ -1,14 +1,19 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Cold template test script
-//:: FileName       mut_t_ab_cold.nss
+//:: Name           Exoskeleton template test script
+//:: FileName       mut_t_exoskel.nss
 //:: Copyright (c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
-Energy Absorption: Cold (Physical / Plant)
-The character gains Energy Resistance, ignoring the first 10 points + CON 
-modifier of damage from a particular type of energy attack.
+Exoskeleton (Physical / Plant)
+An exoskeleton is a rigid outer layer that protects and supports the mutant. It 
+may be composed of bone, cartilage, chitin, calcium or silica. The structure 
+protects the mutant's body like armour and usually covers the head and back, 
+but can cover the entire body of the mutant. It provides a Natural Armour bonus 
+equal to 2 points + CON modifier. This bonus stacks with other natural armour 
+bonuses.  Plants generally have thick, tough bark instead of an actual 
+exoskeleton.
 
-[Ignores 10 + CON Bonus of cold damage]
+[Natural AC equals 2 + 1/2 CON bonus.  Can't wear armor, clothing is fine.]
 
 */
 //::////////////////////////////////////////////////////////////////////////////
@@ -44,7 +49,7 @@ void main()
     }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ENERGY_ABSORPTION_COLD, oPC)) 
+	if(GetHasTemplate(MUT_EXOSKELETON, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}
