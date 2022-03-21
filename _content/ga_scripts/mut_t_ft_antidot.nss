@@ -1,10 +1,10 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name		Fruit, Antibiotic template test script
+//:: Name		Fruit, Antidote template test script
 //:: FileName	mut_t_ft_biotic.nss
 //:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Fruit, Antibiotic (Plant)
+Fruit, Antidote (Plant)
 The plant character grows a fruit (that resembles berries or a chosen type) that has a useful function. The fruit can be any size, from a
 strawberry to a melon, and the player can select any colour or texture. Green Folk cannot benefit from eating fruit because of their
 unusual digestive systems. The plant can grow 1d3 pieces of fruit overnight, but they must remain on the plant for at least a full day to
@@ -13,7 +13,7 @@ particular time. The fruit stays fresh for a month before rotting and falling of
 picked or it will lose its special properties. Roll 1d8 and reference the table below to determine the fruit’s properties. (All fruit grown by a
 particular plant have the same property.)
 
-[Cures disease & Heals 2d6 HP once per day per creature.]
+[Cure & Slow Poison, +1 saves vs poison & disease for 1 hour]
 
 */
 //:://////////////////////////////////////////////////////////////////////////
@@ -46,7 +46,7 @@ void main()
     }   	
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_FRUIT_ANTIBIOTIC, oPC)) 
+	if(GetHasTemplate(MUT_FRUIT_ANTIDOTE, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}
