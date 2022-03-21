@@ -1,19 +1,22 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adherence template test script
-//:: FileName       mut_t_adherence.nss
+//:: Name           Force Barrier template test script
+//:: FileName       mut_t_forcebarr.nss
 //:: Copyright (c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Adherence (Physical)
-Fine hooks or hairs on the mutant’s hands and feet allows him to climb easily 
-or even cling to the ceiling. The character must have hands and feet uncovered 
-to use this ability, and must be carrying no more than a medium load.  The 
-mutant gains a +8 to Climb checks and a 4 to grapple checks.
+Force Barrier (Mental)
+The mutant is able to create an invisible wall (force field) at a distance of up to 25 feet away, plus 5 feet per MPS modifier point. The
+maximum size (height and length) of the barrier is 100 cubic feet plus 50 cubic feet per MPS mod. The barrier is not more than 6” thick,
+but has a Hardness and Energy Resistance of 10. It has a maximum of 50 HP’s plus 5 HP’s per MPS mod, and cannot be penetrated
+until destroyed or cancelled. If the mutant cancels the barrier (or if destroyed), it regains 10 HP’s per hour, until reactivated. It cannot be
+reactivated with less than 10 hp
+
+[Wall of Force (3 + WIS Bonus / 2 uses per day)]
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/20
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -26,17 +29,10 @@ void main()
     object oPC = OBJECT_SELF;
     SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_CONTINUE);	
 
-//:: No pure strain humans, plants, oozes, cyborgs, shapechangers or non-living genotypes
+//:: Any living genotype except oozes, cyborgs & shapechangers
     int nRace = MyPRCGetRacialType(oPC);
+	
     if(nRace == RACIAL_TYPE_CONSTRUCT
-	|| nRace == RACIAL_TYPE_PLANT
-	|| nRace == RACIAL_TYPE_PSH
-	|| nRace == RACIAL_TYPE_SHRUBO
-	|| nRace == RACIAL_TYPE_BLOOM
-	|| nRace == RACIAL_TYPE_MYCO
-	|| nRace == RACIAL_TYPE_CULEN
-	|| nRace == RACIAL_TYPE_ENT
-	|| nRace == RACIAL_TYPE_CREEP
 	|| nRace == RACIAL_TYPE_SMLBOT 
 	|| nRace == RACIAL_TYPE_MEDBOT
 	|| nRace == RACIAL_TYPE_LRGBOT
@@ -48,10 +44,10 @@ void main()
 	|| nRace == RACIAL_TYPE_UNDEAD)	   
     {
         SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
-    }   
+    }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ADHERENCE, oPC)) 
+	if(GetHasTemplate(MUT_FORCE_BARRIER, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

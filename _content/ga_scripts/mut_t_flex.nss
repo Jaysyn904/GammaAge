@@ -1,14 +1,13 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adherence template test script
-//:: FileName       mut_t_adherence.nss
+//:: Name           Flexibility template test script
+//:: FileName       mut_t_flex.nss
 //:: Copyright (c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Adherence (Physical)
-Fine hooks or hairs on the mutant’s hands and feet allows him to climb easily 
-or even cling to the ceiling. The character must have hands and feet uncovered 
-to use this ability, and must be carrying no more than a medium load.  The 
-mutant gains a +8 to Climb checks and a 4 to grapple checks.
+Flexibility (Physical)
+The mutant’s bones and joints become slightly flexible and make it easier to 
+squeeze into small spaces. The character gains +2 DEX, a +3 bonus on all Escape
+Artist checks and to their CMD vs grapple attempts.
 
 */
 //:://////////////////////////////////////////////////////////////////////////
@@ -51,7 +50,7 @@ void main()
     }   
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ADHERENCE, oPC)) 
+	if(GetHasTemplate(MUT_FLEXIBILITY, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

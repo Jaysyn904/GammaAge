@@ -1,10 +1,10 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adherence template test script
-//:: FileName       mut_t_adherence.nss
+//:: Name           Fire Breath template test script
+//:: FileName       mut_t_firebreath.nss
 //:: Copyright (c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Adherence (Physical)
+Fire Breath (Physical)
 Fine hooks or hairs on the mutant’s hands and feet allows him to climb easily 
 or even cling to the ceiling. The character must have hands and feet uncovered 
 to use this ability, and must be carrying no more than a medium load.  The 
@@ -51,7 +51,7 @@ void main()
     }   
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ADHERENCE, oPC)) 
+	if(GetHasTemplate(MUT_FIRE_BREATH, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

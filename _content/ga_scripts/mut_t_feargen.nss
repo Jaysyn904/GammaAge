@@ -1,19 +1,21 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adherence template test script
-//:: FileName       mut_t_adherence.nss
+//:: Name           Fear Generation template test script
+//:: FileName       mut_t_feargen.nss
 //:: Copyright (c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Adherence (Physical)
-Fine hooks or hairs on the mutant’s hands and feet allows him to climb easily 
-or even cling to the ceiling. The character must have hands and feet uncovered 
-to use this ability, and must be carrying no more than a medium load.  The 
-mutant gains a +8 to Climb checks and a 4 to grapple checks.
+Fear Generation (Mental)
+The character can instil fear in a living creature within a range of 25 feet plus 5’ per MPS modifier. If the target fails a Mental Defence
+save, they become Shaken for 1d6 rounds + 1 round per MPS mod. A target that is already shaken becomes frightened, but the initial
+duration does not change. A creature that makes its saving throw cannot be targeted again. This power can be used a number of times
+per day equal to 3 plus the MPS mod.
+
+[Fear (single target, 1d6 rounds, 3 + WIS bonus uses per day)]
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/20
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -26,17 +28,10 @@ void main()
     object oPC = OBJECT_SELF;
     SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_CONTINUE);	
 
-//:: No pure strain humans, plants, oozes, cyborgs, shapechangers or non-living genotypes
+//:: Any living genotype except oozes, cyborgs & shapechangers
     int nRace = MyPRCGetRacialType(oPC);
+	
     if(nRace == RACIAL_TYPE_CONSTRUCT
-	|| nRace == RACIAL_TYPE_PLANT
-	|| nRace == RACIAL_TYPE_PSH
-	|| nRace == RACIAL_TYPE_SHRUBO
-	|| nRace == RACIAL_TYPE_BLOOM
-	|| nRace == RACIAL_TYPE_MYCO
-	|| nRace == RACIAL_TYPE_CULEN
-	|| nRace == RACIAL_TYPE_ENT
-	|| nRace == RACIAL_TYPE_CREEP
 	|| nRace == RACIAL_TYPE_SMLBOT 
 	|| nRace == RACIAL_TYPE_MEDBOT
 	|| nRace == RACIAL_TYPE_LRGBOT
@@ -48,10 +43,10 @@ void main()
 	|| nRace == RACIAL_TYPE_UNDEAD)	   
     {
         SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
-    }   
+    }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_ADHERENCE, oPC)) 
+	if(GetHasTemplate(MUT_FEAR_GENERATION, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}
