@@ -8,7 +8,7 @@ Gamma Age is a post-apocalyptic RPG module for Neverwinter Nights set on Gamma T
 
 Overland Travel System
 
-Mutation system / Defects - 120 Mutations & counting.
+Mutation / Defects system - 120 Mutations & counting.
 
 Cybernetics System
 
