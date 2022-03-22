@@ -1,18 +1,22 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name		Flexibility template test script
-//:: FileName	mut_t_flex.nss
+//:: Name		Molecular Disruption test script
+//:: FileName	mut_t_disruption.nss
 //:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Flexibility (Physical)
-The mutant’s bones and joints become slightly flexible and make it easier to 
-squeeze into small spaces. The character gains +2 DEX, a +3 bonus on all Escape
-Artist checks and to their CMD vs grapple attempts.
+Molecular Disruption (Mental)
+The mutant is able to disintegrate nearly any object. Against non-living materials he causes 3d6 + MPS modifier damage per round.
+(Refer PF Core, p175.) The power can be used a maximum of 3 rounds plus MPS mod rounds per day. The rounds of usage do not
+have to be consecutive. If molecular disruption is used against a living creature, a successful mental touch attack against the target
+causes 1d8 + MPS modifier damage. (DR is not effective.)
+
+[Add 1d8 non-typed (magical) damage to natural attacks for 5 + WIS Bonus rounds or 3d6+WIS Bonus Ranged touch attack, 3 + WIS Bonus uses / day]
+
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/21
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -25,17 +29,10 @@ void main()
     object oPC = OBJECT_SELF;
     SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_CONTINUE);	
 
-//:: No pure strain humans, plants, oozes, cyborgs, shapechangers or non-living genotypes
+//:: Any living genotype except oozes, cyborgs & shapechangers
     int nRace = MyPRCGetRacialType(oPC);
+	
     if(nRace == RACIAL_TYPE_CONSTRUCT
-	|| nRace == RACIAL_TYPE_PLANT
-	|| nRace == RACIAL_TYPE_PSH
-	|| nRace == RACIAL_TYPE_SHRUBO
-	|| nRace == RACIAL_TYPE_BLOOM
-	|| nRace == RACIAL_TYPE_MYCO
-	|| nRace == RACIAL_TYPE_CULEN
-	|| nRace == RACIAL_TYPE_ENT
-	|| nRace == RACIAL_TYPE_CREEP
 	|| nRace == RACIAL_TYPE_SMLBOT 
 	|| nRace == RACIAL_TYPE_MEDBOT
 	|| nRace == RACIAL_TYPE_LRGBOT
@@ -47,10 +44,10 @@ void main()
 	|| nRace == RACIAL_TYPE_UNDEAD)	   
     {
         SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
-    }   
+    }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_FLEXIBILITY, oPC)) 
+	if(GetHasTemplate(MUT_MOLECULAR_DISRUPTION, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

@@ -1,18 +1,22 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name		Flexibility template test script
-//:: FileName	mut_t_flex.nss
+//:: Name		Life-leech template test script
+//:: FileName	mut_t_lifeleech.nss
 //:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Flexibility (Physical)
-The mutant’s bones and joints become slightly flexible and make it easier to 
-squeeze into small spaces. The character gains +2 DEX, a +3 bonus on all Escape
-Artist checks and to their CMD vs grapple attempts.
+Life-leech (Mental)
+The mutant is able to drain the life force out of any living creature, except normal plants. The character drains 5+ MPS modifier hit
+points from all targets within 30 feet each round. As a swift action, the mutant can make a DC20 Concentration check to alter the radius
+of the effect to be anything between 10 and 30 feet. Once activated, it can be kept active as a move action, for a maximum of 5+ MPS
+modifier rounds. It requires two hours before it can be activated again. Any hit points drained from nearby creatures are first used to
+heal any damage taken, with additional points granting temporary hit points to a maximum of 5 Hp’s per MPS. Temporary HP’s
+remaining after one hour are lost.
+
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/21
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -25,17 +29,10 @@ void main()
     object oPC = OBJECT_SELF;
     SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_CONTINUE);	
 
-//:: No pure strain humans, plants, oozes, cyborgs, shapechangers or non-living genotypes
+//:: Any living genotype except oozes, cyborgs & shapechangers
     int nRace = MyPRCGetRacialType(oPC);
+	
     if(nRace == RACIAL_TYPE_CONSTRUCT
-	|| nRace == RACIAL_TYPE_PLANT
-	|| nRace == RACIAL_TYPE_PSH
-	|| nRace == RACIAL_TYPE_SHRUBO
-	|| nRace == RACIAL_TYPE_BLOOM
-	|| nRace == RACIAL_TYPE_MYCO
-	|| nRace == RACIAL_TYPE_CULEN
-	|| nRace == RACIAL_TYPE_ENT
-	|| nRace == RACIAL_TYPE_CREEP
 	|| nRace == RACIAL_TYPE_SMLBOT 
 	|| nRace == RACIAL_TYPE_MEDBOT
 	|| nRace == RACIAL_TYPE_LRGBOT
@@ -47,10 +44,10 @@ void main()
 	|| nRace == RACIAL_TYPE_UNDEAD)	   
     {
         SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
-    }   
+    }    
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_FLEXIBILITY, oPC)) 
+	if(GetHasTemplate(MUT_LIFE_LEECH, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

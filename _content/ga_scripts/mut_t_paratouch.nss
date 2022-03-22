@@ -1,18 +1,22 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name		Flexibility template test script
-//:: FileName	mut_t_flex.nss
+//:: Name		Paralytic Touch template test script
+//:: FileName	mut_t_paratouch.nss
 //:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Flexibility (Physical)
-The mutant’s bones and joints become slightly flexible and make it easier to 
-squeeze into small spaces. The character gains +2 DEX, a +3 bonus on all Escape
-Artist checks and to their CMD vs grapple attempts.
+Paralytic Touch (Physical)
+The mutant’s claws, teeth, stinger or hands secrete a powerful paralytic venom. Anyone who takes damage in melee from the
+character's natural weapons must make a Health save or be paralysed for 1d6 rounds plus 1 round per MPS modifier. The save DC
+equals 10 + half the mutants level + MPS mod. It takes the mutant an hour to produce enough venom for another attack.
+
+
+[1d6 + CON Bonus rounds of paralysis onHit via natural attack once per success per hour]
+
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/21
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -50,7 +54,7 @@ void main()
     }   
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_FLEXIBILITY, oPC)) 
+	if(GetHasTemplate(MUT_PARALYTIC_TOUCH, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

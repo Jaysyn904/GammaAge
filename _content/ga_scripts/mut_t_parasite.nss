@@ -1,18 +1,25 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name		Flexibility template test script
-//:: FileName	mut_t_flex.nss
+//:: Name		Parasite template test script
+//:: FileName	mut_t_parasite.nss
 //:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Flexibility (Physical)
-The mutant’s bones and joints become slightly flexible and make it easier to 
-squeeze into small spaces. The character gains +2 DEX, a +3 bonus on all Escape
-Artist checks and to their CMD vs grapple attempts.
+Parasite (Physical)
+The mutant gains the ability to latch onto the "life force" of other beings and drain some of it to his own body. The mutant must make a
+touch attack on his target to use this power. The target suffers 1d8 points of damage, which the mutant receives as healing. The target
+can make a Health save to halve the damage taken. The save DC equals 10 + half the mutants level + CON mod. Any healing that
+exceeds the mutant’s normal hit point total become temporary hit points. Any temporary HP’s gained are lost in 1 hour. If the mutant
+has a natural attack, they can activate this power as part of that attack.
+
+
+[Vampiric Touch activated touch attack & natural attack onhit, DC = 10 + 1/2 HD + CON Bonus]
+
+
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/21
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -50,7 +57,7 @@ void main()
     }   
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_FLEXIBILITY, oPC)) 
+	if(GetHasTemplate(MUT_PARASITE, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}

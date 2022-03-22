@@ -1,18 +1,20 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name		Flexibility template test script
-//:: FileName	mut_t_flex.nss
+//:: Name		Low-light Vision template test script
+//:: FileName	mut_t_lowlight.nss
 //:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
-Flexibility (Physical)
-The mutant’s bones and joints become slightly flexible and make it easier to 
-squeeze into small spaces. The character gains +2 DEX, a +3 bonus on all Escape
-Artist checks and to their CMD vs grapple attempts.
+Low-light Vision (Physical)
+Characters with low-light vision have eyes that are so sensitive to light that they can see twice as far as normal in dim light. Low-light
+vision is color vision. Characters with low-light vision can see outdoors on a moonlit night as well as they can during the day. The
+character's normal daylight light vision is unaffected
+
+[Low-Light Vision]
 
 */
 //:://////////////////////////////////////////////////////////////////////////
 //:: Created By: Jaysyn
-//:: Created On: 22/03/19
+//:: Created On: 22/03/21
 //:://////////////////////////////////////////////////////////////////////////
 
 
@@ -50,7 +52,7 @@ void main()
     }   
 	
 //:: Can't get this mutation twice.
-	if(GetHasTemplate(MUT_FLEXIBILITY, oPC)) 
+	if(GetHasTemplate(MUT_LOW_LIGHT_VISION, oPC)) 
 	{
 		SetExecutedScriptReturnValue(X2_EXECUTE_SCRIPT_END);
 	}
