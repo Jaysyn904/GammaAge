@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Conversion: Acid template test script
-//:: FileName       mut_t_conv_acid.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Conversion: Acid template test script
+//:: FileName	mut_t_conv_acid.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Conversion: Acid (Physical / Plant)

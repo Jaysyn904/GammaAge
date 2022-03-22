@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Chameleon template test script
-//:: FileName       mut_t_chameleon.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Chameleon template test script
+//:: FileName	mut_t_chameleon.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Chameleon (Physical / Plant)

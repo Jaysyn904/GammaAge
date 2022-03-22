@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Gas Generation, Paralytic template test script
-//:: FileName       mut_t_stopgas.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Gas Generation, Paralytic template test script
+//:: FileName	mut_t_stopgas.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Gas Generation, Paralytic (Physical / Plant)

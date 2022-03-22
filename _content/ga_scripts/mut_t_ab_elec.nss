@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Electricity template test script
-//:: FileName       mut_t_ab_elec.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Absorption: Electricity template test script
+//:: FileName	mut_t_ab_elec.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Absorption: Electricity (Physical / Plant)

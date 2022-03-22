@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Gas Generation, Sleeping template test script
-//:: FileName       mut_t_sleepgas.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Gas Generation, Sleeping template test script
+//:: FileName	mut_t_sleepgas.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Gas Generation, Sleeping (Physical / Plant)

@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Confusion template test script
-//:: FileName       mut_t_confusion.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Confusion template test script
+//:: FileName	mut_t_confusion.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Confusion (Mental)

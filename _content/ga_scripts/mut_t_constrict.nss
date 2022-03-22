@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Constriction template test script
-//:: FileName       mut_t_constrict.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name	Constriction template test script
+//:: FileName	mut_t_constrict.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Constriction (Plant)

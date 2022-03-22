@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Heightened Smell template test script
-//:: FileName       mut_t_smell.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Heightened Smell template test script
+//:: FileName	mut_t_smell.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Heightened Smell (Physical)

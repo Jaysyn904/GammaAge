@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Fire template test script
-//:: FileName       mut_t_ab_elec.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Absorption: Fire template test script
+//:: FileName	mut_t_ab_elec.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Absorption: Fire (Physical / Plant)

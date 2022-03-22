@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Heightened Balance template test script
-//:: FileName       mut_t_balance.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Heightened Balance template test script
+//:: FileName	mut_t_balance.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Heightened Balance (Physical)

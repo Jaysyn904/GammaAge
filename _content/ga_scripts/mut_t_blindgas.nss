@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Gas Generation, Blinding template test script
-//:: FileName       mut_t_blindgas.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Gas Generation, Blinding template test script
+//:: FileName	mut_t_blindgas.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Gas Generation, Blinding (Physical / Plant)

@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Conversion: Concussion template test script
-//:: FileName       mut_t_conv_sonic.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Conversion: Concussion template test script
+//:: FileName	mut_t_conv_sonic.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Conversion: C (Physical / Plant)

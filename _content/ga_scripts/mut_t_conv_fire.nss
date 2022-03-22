@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Conversion: Fire template test script
-//:: FileName       mut_t_conv_fire.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Conversion: Fire template test script
+//:: FileName	mut_t_conv_fire.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Conversion: Fire (Physical / Plant)

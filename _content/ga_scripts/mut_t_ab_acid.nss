@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Acid template test script
-//:: FileName       mut_t_ab_acid.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Absorption: Acid template test script
+//:: FileName	mut_t_ab_acid.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Absorption: Acid (Physical / Plant)

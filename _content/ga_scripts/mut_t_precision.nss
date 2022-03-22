@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Heightened Prescision template test script
-//:: FileName       mut_t_precision.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Heightened Prescision template test script
+//:: FileName	mut_t_precision.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Heightened Prescision (Physical)

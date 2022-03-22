@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Death Field template test script
-//:: FileName       mut_t_deathfield.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Death Field template test script
+//:: FileName	mut_t_deathfield.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Death-field (Mental)

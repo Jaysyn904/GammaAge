@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Claws template test script
-//:: FileName       mut_t_claws.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Claws template test script
+//:: FileName	mut_t_claws.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Claws (Physical)

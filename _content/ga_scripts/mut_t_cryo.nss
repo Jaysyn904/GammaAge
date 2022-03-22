@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Cryokinesis template test script
-//:: FileName       mut_t_cryo.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Cryokinesis template test script
+//:: FileName	mut_t_cryo.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Cryokensis (Mental)

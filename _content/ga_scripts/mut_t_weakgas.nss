@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Gas Generation, Weakening template test script
-//:: FileName       mut_t_weakgas.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Gas Generation, Weakening template test script
+//:: FileName	mut_t_weakgas.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Gas Generation, Weakening (Physical / Plant)

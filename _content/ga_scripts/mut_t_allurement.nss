@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Allurement template test script
-//:: FileName       mut_t_allurement.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Allurement template test script
+//:: FileName	mut_t_allurement.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Allurement (Plant)

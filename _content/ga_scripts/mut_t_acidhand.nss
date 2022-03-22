@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Hands of Power, Caustic template test script
-//:: FileName       mut_t_acidhand.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Hands of Power, Caustic template test script
+//:: FileName	mut_t_acidhand.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Hands of Power, Caustic (Physical)

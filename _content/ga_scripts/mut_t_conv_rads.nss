@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Conversion: Radiation template test script
-//:: FileName       mut_t_conv_rads.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Conversion: Radiation template test script
+//:: FileName	mut_t_conv_rads.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Conversion: Radiation (Physical / Plant)

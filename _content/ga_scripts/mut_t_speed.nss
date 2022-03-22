@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Heightened Speed template test script
-//:: FileName       mut_t_speed.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Heightened Speed template test script
+//:: FileName	mut_t_speed.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Heightened Speed (Physical)

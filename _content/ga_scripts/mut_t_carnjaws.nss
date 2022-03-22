@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Carnivourous Jaws template test script
-//:: FileName       mut_t_carnjaws.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Carnivourous Jaws template test script
+//:: FileName	mut_t_carnjaws.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Carnivourous Jaws (Plant)

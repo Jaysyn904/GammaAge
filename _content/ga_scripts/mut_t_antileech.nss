@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Anti-life leech template test script
-//:: FileName       mut_t_antileech.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Anti-life leech template test script
+//:: FileName	mut_t_antileech.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Anti-Life Leech (Mental)

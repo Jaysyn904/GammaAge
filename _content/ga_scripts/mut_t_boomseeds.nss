@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Explosive Seeds template test script
-//:: FileName       mut_t_boomseeds.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Explosive Seeds template test script
+//:: FileName	mut_t_boomseeds.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Explosive Seeds (Plant)

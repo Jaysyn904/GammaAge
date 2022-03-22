@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Concussion template test script
-//:: FileName       mut_t_ab_sonic.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Absorption: Concussion template test script
+//:: FileName	mut_t_ab_sonic.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Absorption: Concussion (Physical / Plant)

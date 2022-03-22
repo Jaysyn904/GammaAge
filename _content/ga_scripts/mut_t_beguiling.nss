@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Beguiling template test script
-//:: FileName       mut_t_beguiling.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Beguiling template test script
+//:: FileName	mut_t_beguiling.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Beguiling (Mental)

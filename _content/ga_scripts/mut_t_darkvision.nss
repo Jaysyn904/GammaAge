@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Darkvision template test script
-//:: FileName       mut_t_darkvision.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Darkvision template test script
+//:: FileName	mut_t_darkvision.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Darkvision (Physical / Plant)

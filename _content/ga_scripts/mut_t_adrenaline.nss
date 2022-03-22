@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adrenaline Boost template test script
-//:: FileName       mut_t_adrenaline.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Adrenaline Boost template test script
+//:: FileName	mut_t_adrenaline.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Adrenaline Boost (Physical)

@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Alteration template test script
-//:: FileName       mut_t_alteration.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Alteration template test script
+//:: FileName	mut_t_alteration.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Alteration (Physical)

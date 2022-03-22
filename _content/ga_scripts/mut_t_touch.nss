@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Heightened Touch template test script
-//:: FileName       mut_t_touch.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Heightened Touch template test script
+//:: FileName	mut_t_touch.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Heightened Touch (Physical)

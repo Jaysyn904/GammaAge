@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Body Control template test script
-//:: FileName       mut_t_bodyctrl.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Body Control template test script
+//:: FileName	mut_t_bodyctrl.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Body Control (Physical)

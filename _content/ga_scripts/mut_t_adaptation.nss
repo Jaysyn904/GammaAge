@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adaptation template test script
-//:: FileName       tmp_t_adaptation.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Adaptation template test script
+//:: FileName	tmp_t_adaptation.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Adaptation (Plant)

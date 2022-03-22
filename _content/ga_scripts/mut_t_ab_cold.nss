@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Cold template test script
-//:: FileName       mut_t_ab_cold.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Absorption: Cold template test script
+//:: FileName	mut_t_ab_cold.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Absorption: Cold (Physical / Plant)

@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Conversion: Cold template test script
-//:: FileName       mut_t_conv_cold.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Conversion: Cold template test script
+//:: FileName	mut_t_conv_cold.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Conversion: Cold (Physical / Plant)

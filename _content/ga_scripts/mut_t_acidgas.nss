@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Gas Generation, Caustic template test script
-//:: FileName       mut_t_acidgas.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Gas Generation, Caustic template test script
+//:: FileName	mut_t_acidgas.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Gas Generation, Caustic (Physical / Plant)

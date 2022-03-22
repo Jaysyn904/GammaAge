@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Animal / Plant Control template test script
-//:: FileName       mut_t_ap_control.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Animal / Plant Control template test script
+//:: FileName	mut_t_ap_control.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Animal / Plant Control (Mental)

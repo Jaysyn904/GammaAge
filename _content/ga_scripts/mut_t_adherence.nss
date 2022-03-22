@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Adherence template test script
-//:: FileName       mut_t_adherence.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Adherence template test script
+//:: FileName	mut_t_adherence.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Adherence (Physical)

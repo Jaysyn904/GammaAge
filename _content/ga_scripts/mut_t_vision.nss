@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Heightened Vision template test script
-//:: FileName       mut_t_vision.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Heightened Vision template test script
+//:: FileName	mut_t_vision.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 Heightened Vision (Physical)

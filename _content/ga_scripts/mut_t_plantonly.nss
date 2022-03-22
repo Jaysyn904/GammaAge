@@ -1,7 +1,7 @@
 //::///////////////////////////////////////////////////////////////////////////
-//:: Name           Plant Mutations Base template test script
-//:: FileName       tmp_t_plantonly.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Plant Mutations Base template test script
+//:: FileName	tmp_t_plantonly.nss
+//:: Copyright	(c) 2022 NWNDS
 //::///////////////////////////////////////////////////////////////////////////
 /*
 

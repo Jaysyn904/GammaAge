@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Gas Generation, Hallucinagenic template test script
-//:: FileName       mut_t_tripgas.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Gas Generation, Hallucinagenic template test script
+//:: FileName	mut_t_tripgas.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Gas Generation, Hallucinagenic (Physical / Plant)

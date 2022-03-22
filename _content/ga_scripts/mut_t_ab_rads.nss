@@ -1,7 +1,7 @@
 //::////////////////////////////////////////////////////////////////////////////
-//:: Name           Energy Absorption: Radiation template test script
-//:: FileName       mut_t_ab_rads.nss
-//:: Copyright (c) 2022 NWNDS
+//:: Name		Energy Absorption: Radiation template test script
+//:: FileName	mut_t_ab_rads.nss
+//:: Copyright	(c) 2022 NWNDS
 //::////////////////////////////////////////////////////////////////////////////
 /*
 Energy Absorption: Radiation (Physical / Plant)
