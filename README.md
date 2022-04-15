@@ -17,6 +17,8 @@ Cybernetics System
 
 ### Contributions & Thanks
 
+Ebonfowl - Scripting
+
 D20mm 2.2 Tiles hak version 1.0 - May 2018
 Thanks go to Stacey, Fuzzwolf, Goudea, David Johns, Jezira, the Dark Team and Demigog, Horred the Plague, Chandigar, ChicoCQ, Tom Banjo, Cave Gnome, PHoD, DrHoo, VahnHaunt, Yumi-Chan, Veldin, Vanya Mia.
 
